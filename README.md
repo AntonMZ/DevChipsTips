@@ -16,3 +16,5 @@
 
  CodeStyle
  - https://github.styleci.io
+
+ - https://dependabot.com
