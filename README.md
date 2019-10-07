@@ -10,6 +10,13 @@
 - https://github.com/stefanzweifel/laravel-stats
 - https://github.com/barryvdh/laravel-ide-helper
 
+- Valet
+
+
+# UI
+  - [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
+
+
 # Non framework
  - https://github.com/nunomaduro/phpinsights
  - https://github.com/phpstan/phpstan
