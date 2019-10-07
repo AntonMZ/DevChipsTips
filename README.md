@@ -11,3 +11,6 @@
 # Non framework
  - https://github.com/nunomaduro/phpinsights
  - https://github.com/phpstan/phpstan
+
+ CodeStyle
+ - https://github.styleci.io
