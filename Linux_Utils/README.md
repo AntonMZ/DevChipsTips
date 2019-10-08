@@ -1,0 +1,5 @@
+ - ntpq
+ - iotop
+ - tzlocal
+ - hddtemp
+ - screen

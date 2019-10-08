@@ -1,0 +1,2 @@
+- find / -size +100000k - найти все файлы больше ста метров
+- badblocks -v /dev/sdb
