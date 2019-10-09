@@ -1,7 +1,7 @@
 
 # Dev Tools
 
- - [Laravel](Laravel)
- - [Linux Commands](Linux_Commands)
- - [Linux Utils](Linux_Utils)
- - [Web](Web)
+ - [Laravel](Development/Laravel)
+ - [Linux Commands](DevOps/Linux_Commands)
+ - [Linux Utils](DevOps/Linux_Utils)
+ - [Testing](DevOps/Testing)
