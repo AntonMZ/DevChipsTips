@@ -3,3 +3,4 @@
  - tzlocal
  - hddtemp
  - screen
+- jq
