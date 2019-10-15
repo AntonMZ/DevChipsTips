@@ -10,6 +10,7 @@
 - [laravel-stats](https://github.com/stefanzweifel/laravel-stats)
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - автоподсказки для Laravel
 - [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
+- [laravel-permission](https://github.com/spatie/laravel-permission)
 
 
 # UI
@@ -19,6 +20,7 @@
 # Non framework
  - https://github.com/nunomaduro/phpinsights
  - https://github.com/phpstan/phpstan
+ - https://github.com/fzaninotto/Faker
 
 # CodeStyle
  - https://github.styleci.io
