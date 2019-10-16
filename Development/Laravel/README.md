@@ -11,6 +11,7 @@
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - автоподсказки для Laravel
 - [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
 - [laravel-permission](https://github.com/spatie/laravel-permission)
+- [flash](https://github.com/laracasts/flash)
 
 
 # UI
