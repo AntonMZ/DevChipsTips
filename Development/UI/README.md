@@ -1,0 +1,2 @@
+ - [10 лучших JavaScript библиотек для визуализации данных на графиках и диаграммах](https://habr.com/ru/post/457946/)
+ - [rough-charts](https://github.com/beizhedenglong/rough-charts)
