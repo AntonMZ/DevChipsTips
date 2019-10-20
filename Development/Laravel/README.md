@@ -12,6 +12,7 @@
 - [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
 - [laravel-permission](https://github.com/spatie/laravel-permission)
 - [flash](https://github.com/laracasts/flash)
+- [laravelcollective/html]
 
 
 # UI
@@ -22,6 +23,7 @@
  - https://github.com/nunomaduro/phpinsights
  - https://github.com/phpstan/phpstan
  - https://github.com/fzaninotto/Faker
+ - [guzzle](https://github.com/guzzle/guzzle) - пакет для отправки HTTP зпросов и простой интеграции с web сервисами (аналог curl)
 
 # CodeStyle
  - https://github.styleci.io
