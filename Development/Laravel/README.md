@@ -13,6 +13,7 @@
 - [laravel-permission](https://github.com/spatie/laravel-permission)
 - [flash](https://github.com/laracasts/flash)
 - [laravelcollective/html]
+- [laravel/ui]
 
 
 # UI
