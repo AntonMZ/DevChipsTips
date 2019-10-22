@@ -14,7 +14,7 @@
 - [flash](https://github.com/laracasts/flash)
 - [laravelcollective/html]
 - [laravel/ui]
-
+- [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
 
 # UI
   - [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
