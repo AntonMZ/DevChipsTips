@@ -1,0 +1,2 @@
+ - https://travis-ci.com/
+ - https://coveralls.io/
