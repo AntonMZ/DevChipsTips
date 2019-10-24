@@ -30,3 +30,7 @@
  - https://github.styleci.io
 
  - https://dependabot.com
+
+
+ # Docs
+  - [Как сделать свой пакет для Laravel за 10 минут](https://laravel.demiart.ru/build-your-own-laravel-package-in-10-minutes/) (demiart.ru - 2019)
