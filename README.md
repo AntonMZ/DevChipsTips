@@ -1,7 +1,15 @@
-
-# Dev Tools
+# Development
 
  - [Laravel](Development/Laravel)
- - [Linux Commands](DevOps/Linux_Commands)
- - [Linux Utils](DevOps/Linux_Utils)
- - [Testing](DevOps/Testing)
+ - [Others](Development/Others)
+ - [Templates](Development/Templates)
+ - [Testing](Development/Testing)
+ - [UI](Development/UI)
+
+# Devops
+
+- [Hosting](DevOps/Hosting)
+- [Linux_Commands](DevOps/Linux_Commands)
+- [Linux_Utils](DevOps/Linux_Utils)
+- [Monitoring](DevOps/Monitoring)
+- [Testing](DevOps/Testing)
