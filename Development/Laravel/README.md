@@ -5,9 +5,9 @@
 
 # Laravel
 
-- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - библиотека для работы debug панелью.
 
-    ```composer require --dev barryvdh/laravel-debugbar```
+    Установка:  ```composer require --dev barryvdh/laravel-debugbar```
 ---
 - [larastan](https://github.com/nunomaduro/larastan)
 - [laravel-stats](https://github.com/stefanzweifel/laravel-stats)
@@ -15,8 +15,14 @@
 ---
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - автоподсказки для Laravel
 
-    ```composer require --dev barryvdh/laravel-ide-helper```
+    Установка: ```composer require --dev barryvdh/laravel-ide-helper```
 ---
+
+ - [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - библиотека для работы с SSL сертификатами
+
+    Установка: ```composer require spatie/ssl-certificate```
+---
+
 
 - [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
 - [laravel-permission](https://github.com/spatie/laravel-permission)
