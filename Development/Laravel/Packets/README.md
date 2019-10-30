@@ -8,8 +8,12 @@
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
 ---
 - [larastan](https://github.com/nunomaduro/larastan)
-- [laravel-stats](https://github.com/stefanzweifel/laravel-stats)
+---
+* [laravelcollective/html](https://laravelcollective.com/docs/6.0/html) - пакет для работы с формами в шаблонах
 
+    Установка: ```composer require laravelcollective/html```
+---
+* [laravel-stats](https://github.com/stefanzweifel/laravel-stats)
 ---
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - автоподсказки для Laravel
 
