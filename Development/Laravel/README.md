@@ -1,3 +1,6 @@
+### [Пакеты для Laravel / Packets for Laravel](/Packets)
+
+
 # UI
   - [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
 
