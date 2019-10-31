@@ -5,7 +5,7 @@
  * [Laravel](Development/Laravel)
     * [Инструкции / Instructions](Development/Laravel/Instructions)
     * [Пакеты / Packets](Development/Laravel/Packets)
-    * [Документация / Documentation](Development/Larvel/Codumentation)
+    * [Документация / Documentation](Development/Laravel/Documentation)
 
 
  - [Others](Development/Others)
