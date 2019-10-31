@@ -9,6 +9,10 @@
 ---
 - [larastan](https://github.com/nunomaduro/larastan)
 ---
+* [laracasts/flash](https://github.com/laracasts/flash) - пакет для работы с сообщениями
+    
+    Установка: ```php composer require laracasts/flash```
+---
 * [laravelcollective/html](https://laravelcollective.com/docs/6.0/html) - пакет для работы с формами в шаблонах
 
     Установка: ```composer require laravelcollective/html```
@@ -30,11 +34,14 @@
     ![alt](https://img.shields.io/github/stars/spatie/ssl-certificate)
     ![alt](https://img.shields.io/github/license/spatie/ssl-certificate)
 ---
-
-
-- [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
-- [laravel-permission](https://github.com/spatie/laravel-permission)
-- [flash](https://github.com/laracasts/flash)
-- [laravelcollective/html]
-- [laravel/ui]
-- [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
+* [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
+---
+* [laravel-permission](https://github.com/spatie/laravel-permission)
+---
+* [flash](https://github.com/laracasts/flash)
+---
+* [laravelcollective/html]
+---
+* [laravel/ui]
+---
+* [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
