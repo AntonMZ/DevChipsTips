@@ -1,5 +1,5 @@
-### [Пакеты для Laravel / Packets for Laravel](Development/Laravel/Packets)
-### [Документация / Documentation](Development/Laravel/Documentation)
+### [Пакеты для Laravel / Packets for Laravel](/Development/Laravel/Packets)
+### [Документация / Documentation](/Development/Laravel/Documentation)
 
 
 # UI

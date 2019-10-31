@@ -3,9 +3,9 @@
 # Разработка / Development
 
  * [Laravel](Development/Laravel)
-    * [Инструкции / Instructions](Development/Laravel/Instructions)
-    * [Пакеты / Packets](Development/Laravel/Packets)
-    * [Документация / Documentation](Development/Laravel/Documentation)
+    * [Инструкции / Instructions](/Development/Laravel/Instructions)
+    * [Пакеты / Packets](/Development/Laravel/Packets)
+    * [Документация / Documentation](/Development/Laravel/Documentation)
 
 
  - [Others](Development/Others)
