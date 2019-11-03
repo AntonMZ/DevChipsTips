@@ -9,6 +9,12 @@
 ---
 - [larastan](https://github.com/nunomaduro/larastan)
 ---
+* [laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript) - пакет для экспорта переменных в javascript
+
+    ![](https://img.shields.io/github/stars/spatie/laravel-blade-javascript)
+    ![](https://img.shields.io/github/license/spatie/laravel-blade-javascript)
+---
+
 * [laracasts/flash](https://github.com/laracasts/flash) - пакет для работы с сообщениями
     
     Установка: ```php composer require laracasts/flash```
