@@ -1,5 +1,18 @@
 # LaravelPackets
 
+
+
+## Utils
+
+- [laravel-totem](https://github.com/codestudiohq/laravel-totem) - управление заданиями через web интерфейс
+![]()
+    Установка: ```composer require studio/laravel-totem```
+
+    ![](https://img.shields.io/github/stars/codestudiohq/laravel-totem)
+    ![](https://img.shields.io/github/license/codestudiohq/laravel-totem)
+
+## Debug
+
 - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - библиотека для работы debug панелью.
 
     Установка:  ```composer require --dev barryvdh/laravel-debugbar```
