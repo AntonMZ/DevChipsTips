@@ -1,4 +1,4 @@
-# LaravelPackets
+### Пакеты для Laravel / Packets for Laravel
 
 
 
@@ -20,8 +20,26 @@
     ![](https://img.shields.io/github/stars/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
 ---
+
+## Code analyzers
 - [larastan](https://github.com/nunomaduro/larastan)
 ---
+
+- [phpstan](https://github.com/phpstan/phpstan)
+    
+    Установка: ```composer require --dev phpstan/phpstan```
+
+    ![](https://img.shields.io/github/stars/phpstan/phpstan)
+    ![](https://img.shields.io/github/license/phpstan/phpstan)
+
+---
+
+## UI
+  - [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
+
+
+## ?
+
 * [laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript) - пакет для экспорта переменных в javascript
 
     ![](https://img.shields.io/github/stars/spatie/laravel-blade-javascript)
@@ -64,3 +82,17 @@
 * [laravel/ui]
 ---
 * [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
+
+
+
+# Non framework
+ - https://github.com/nunomaduro/phpinsights
+ ---
+ - https://github.com/fzaninotto/Faker
+ - [guzzle](https://github.com/guzzle/guzzle) - пакет для отправки HTTP зпросов и простой интеграции с web сервисами (аналог curl)
+ - composer
+
+# CodeStyle
+ - https://github.styleci.io
+
+ - https://dependabot.com

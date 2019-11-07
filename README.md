@@ -3,15 +3,14 @@
 # Разработка / Development
 
  * [Laravel](Development/Laravel)
-    * [Инструкции / Instructions](/Development/Laravel/Instructions)
-    * [Пакеты / Packets](/Development/Laravel/Packets)
-    * [Документация / Documentation](/Development/Laravel/Documentation)
+    - [Инструкции / Instructions](/Development/Laravel/Instructions)
+    - [Документация / Documentation](/Development/Laravel/Documentation)
 
-
- - [Others](Development/Others)
- - [Templates](Development/Templates)
- - [Testing](Development/Testing)
- - [UI](Development/UI)
+- [Пакеты / Packets](/Development/Packets)
+- [Другое / Others](Development/Others)
+- [Шаблоны / Templates](Development/Templates)
+- [Тестирование / Testing](Development/Testing)
+- [Оформление / UI](Development/UI)
 
 # Devops
 
