@@ -8,7 +8,17 @@
 
 # Non framework
  - https://github.com/nunomaduro/phpinsights
- - https://github.com/phpstan/phpstan
+
+ ---
+
+ ## Analysis Tool
+ - [phpstan](https://github.com/phpstan/phpstan)
+    
+    Установка: ```composer require --dev phpstan/phpstan```
+
+    ![](https://img.shields.io/github/stars/phpstan/phpstan)
+    ![](https://img.shields.io/github/license/phpstan/phpstan)
+---
  - https://github.com/fzaninotto/Faker
  - [guzzle](https://github.com/guzzle/guzzle) - пакет для отправки HTTP зпросов и простой интеграции с web сервисами (аналог curl)
  - composer
