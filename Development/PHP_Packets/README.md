@@ -13,21 +13,21 @@
 
 ## Debug
 
-- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - библиотека для работы debug панелью.
+- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 
-    Установка:  ```composer require --dev barryvdh/laravel-debugbar```
+    Пакет для работы с debug панелью.
 
     ![](https://img.shields.io/github/stars/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
----
+    
+    ---
 
 ## Code analyzers
 - [larastan](https://github.com/nunomaduro/larastan)
----
+    
+    ---
 
 - [phpstan](https://github.com/phpstan/phpstan)
-    
-    Установка: ```composer require --dev phpstan/phpstan```
 
     ![](https://img.shields.io/github/stars/phpstan/phpstan)
     ![](https://img.shields.io/github/license/phpstan/phpstan)
@@ -37,6 +37,19 @@
 ## UI
   - [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
 
+---
+
+## Diagnostics
+
+- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor)
+
+    Пакет для мониторинга сервера и отправки уведомлений об ошибке в Slack или по электронной почте.
+
+    ![](https://img.shields.io/github/stars/spatie/laravel-server-monitor)
+    ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
+
+
+---
 
 ## ?
 
@@ -90,7 +103,9 @@
  ---
  - https://github.com/fzaninotto/Faker
  - [guzzle](https://github.com/guzzle/guzzle) - пакет для отправки HTTP зпросов и простой интеграции с web сервисами (аналог curl)
- - composer
+ 
+
+ - [composer](https://github.com/composer/composer) (https://getcomposer.org) - менеджер PHP пакетов.
 
 # CodeStyle
  - https://github.styleci.io

@@ -6,7 +6,7 @@
     - [Инструкции / Instructions](/Development/Laravel/Instructions)
     - [Документация / Documentation](/Development/Laravel/Documentation)
 
-- [Пакеты / Packets](/Development/Packets)
+- [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
 - [Другое / Others](Development/Others)
 - [Шаблоны / Templates](Development/Templates)
 - [Тестирование / Testing](Development/Testing)
