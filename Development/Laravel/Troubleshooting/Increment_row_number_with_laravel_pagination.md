@@ -1,3 +1,4 @@
+```php
 @foreach($servers as $server)
     @php
         /** @var \App\Http\Controllers\Admin\Servers\ServersController $server */
@@ -21,3 +22,4 @@
         </td>
     </tr>
 @endforeach
+```
