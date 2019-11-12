@@ -51,6 +51,13 @@
 
 ---
 
+## HTTP
+
+- [mnapoli/bof](https://github.com/mnapoli/bof) - Обёртка над Guzzle с более простым интерфейсом для создания запросов
+
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - синхронный клиент/сервер протокола Telegram MTProto. Позволяет взаимодействовать с Telegram без использования бот-API
+
+
 ## ?
 
 * [laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript) - пакет для экспорта переменных в javascript
