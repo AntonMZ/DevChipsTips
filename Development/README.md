@@ -1,1 +1,0 @@
-- [composer](https://github.com/composer/composer) (https://getcomposer.org) - менеджер PHP пакетов.
