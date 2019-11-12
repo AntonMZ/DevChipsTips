@@ -13,17 +13,22 @@
 
 ## Debug
 
-- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) (<span style="color:red">Laravel</span>)
 
     Пакет для работы с debug панелью.
 
     ![](https://img.shields.io/github/stars/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
     
+- [https://github.com/xdebug]
+
     ---
 
 ## Code analyzers
 - [larastan](https://github.com/nunomaduro/larastan)
+
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
     
     ---
 
@@ -47,6 +52,7 @@
 
     ![](https://img.shields.io/github/stars/spatie/laravel-server-monitor)
     ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 
 
 ---
