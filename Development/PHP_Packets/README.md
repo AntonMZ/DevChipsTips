@@ -10,10 +10,11 @@
 
     ![](https://img.shields.io/github/stars/codestudiohq/laravel-totem)
     ![](https://img.shields.io/github/license/codestudiohq/laravel-totem)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 
 ## Debug
 
-- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) (<span style="color:red">Laravel</span>)
+- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 
     Пакет для работы с debug панелью.
 
@@ -88,6 +89,7 @@
 
     ![](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper)
     ![](https://img.shields.io/github/license/barryvdh/laravel-ide-helper)
+        ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 
  - [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - библиотека для работы с SSL сертификатами
@@ -98,14 +100,20 @@
     ![alt](https://img.shields.io/github/license/spatie/ssl-certificate)
 ---
 * [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
+
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 * [laravel-permission](https://github.com/spatie/laravel-permission)
 ---
 * [flash](https://github.com/laracasts/flash)
+
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 * [laravelcollective/html]
 ---
 * [laravel/ui]
+
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 * [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
 
