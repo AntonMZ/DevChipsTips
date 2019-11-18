@@ -41,8 +41,22 @@
 ---
 
 ## UI
-  - [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
+* [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
+    
+    ![](https://img.shields.io/github/stars/alecrabbit/php-console-spinner)
+    ![](https://img.shields.io/github/license/alecrabbit/php-console-spinner)
 
+* [laracasts/flash](https://github.com/laracasts/flash) - пакет для работы с сообщениями
+
+    ![](https://img.shields.io/github/stars/laracasts/flash)
+    ![](https://img.shields.io/github/license/laracasts/flash)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+
+* [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - пакет для работы с сообщениями
+
+    ![](https://img.shields.io/github/stars/mckenziearts/laravel-notify)
+    ![](https://img.shields.io/github/license/mckenziearts/laravel-notify)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 
 ## Diagnostics
@@ -78,12 +92,7 @@
 
     ![](https://img.shields.io/github/stars/spatie/laravel-blade-javascript)
     ![](https://img.shields.io/github/license/spatie/laravel-blade-javascript)
----
-
-* [laracasts/flash](https://github.com/laracasts/flash) - пакет для работы с сообщениями
-    
-    Установка: ```php composer require laracasts/flash```
----
+---    
 * [laravelcollective/html](https://laravelcollective.com/docs/6.0/html) - пакет для работы с формами в шаблонах
 
     Установка: ```composer require laravelcollective/html```
