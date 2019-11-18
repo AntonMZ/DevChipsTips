@@ -64,6 +64,13 @@
 
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - синхронный клиент/сервер протокола Telegram MTProto. Позволяет взаимодействовать с Telegram без использования бот-API
 
+## Office
+
+* [spatie/simple-excel](https://github.com/spatie/simple-excel) - пакет для работы с Excel и CSV файлами.
+
+    ![](https://img.shields.io/github/stars/spatie/simple-excel)
+    ![](https://img.shields.io/github/license/spatie/simple-excel)
+
 
 ## ?
 
