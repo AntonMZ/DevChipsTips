@@ -6,8 +6,7 @@
 
 - [laravel-totem](https://github.com/codestudiohq/laravel-totem) - управление заданиями через web интерфейс
 ![]()
-    Установка: ```composer require studio/laravel-totem```
-
+    
     ![](https://img.shields.io/github/stars/codestudiohq/laravel-totem)
     ![](https://img.shields.io/github/license/codestudiohq/laravel-totem)
     ![](https://img.shields.io/badge/Laravel-Ready-Red)
@@ -41,6 +40,15 @@
 ---
 
 ## UI
+
+* [laravel/ui](https://github.com/laravel/ui)
+
+    ![](https://img.shields.io/github/stars/laravel/ui)
+    ![](https://img.shields.io/github/license/laravel/ui)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    
+    ---
+    
 * [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
     
     ![](https://img.shields.io/github/stars/alecrabbit/php-console-spinner)
@@ -88,14 +96,19 @@
 
 ## ?
 
+* [ramsey/uuid](https://github.com/ramsey/uuid) - пакет для генерации UUID по RFC 4122
+
+    ![](https://img.shields.io/github/stars/ramsey/uuid)
+    ![](https://img.shields.io/github/license/ramsey/uuid)
+
+---
 * [laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript) - пакет для экспорта переменных в javascript
 
     ![](https://img.shields.io/github/stars/spatie/laravel-blade-javascript)
     ![](https://img.shields.io/github/license/spatie/laravel-blade-javascript)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---    
 * [laravelcollective/html](https://laravelcollective.com/docs/6.0/html) - пакет для работы с формами в шаблонах
-
-    Установка: ```composer require laravelcollective/html```
 ---
 * [laravel-stats](https://github.com/stefanzweifel/laravel-stats)
 ---
@@ -105,7 +118,7 @@
 
     ![](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper)
     ![](https://img.shields.io/github/license/barryvdh/laravel-ide-helper)
-        ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 
  - [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - библиотека для работы с SSL сертификатами
@@ -127,9 +140,7 @@
 ---
 * [laravelcollective/html]
 ---
-* [laravel/ui]
 
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
 ---
 * [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
 
