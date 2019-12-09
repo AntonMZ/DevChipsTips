@@ -99,6 +99,8 @@
     ![](https://img.shields.io/github/stars/spatie/simple-excel)
     ![](https://img.shields.io/github/license/spatie/simple-excel)
 
+* [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - пакет для конвертации html в pdf
+
 
 ## ?
 
@@ -158,10 +160,5 @@
  - https://github.com/fzaninotto/Faker
  - [guzzle](https://github.com/guzzle/guzzle) - пакет для отправки HTTP зпросов и простой интеграции с web сервисами (аналог curl)
  
-
  - [composer](https://github.com/composer/composer) (https://getcomposer.org) - менеджер PHP пакетов.
 
-# CodeStyle
- - https://github.styleci.io
-
- - https://dependabot.com
