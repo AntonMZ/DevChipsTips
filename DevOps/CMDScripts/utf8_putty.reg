@@ -1,0 +1,3 @@
+[HKEY_CURRENT_USER\SOFTWARE\SimonTatham\PuTTY\Sessions\Default%20Settings]
+“LineCodePage”=”UTF-8”
+“UTF8Override”=dword:00000001
