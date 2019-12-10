@@ -3,17 +3,25 @@
 # Разработка / Development
 
 * [Книги](Development/Books)
+* [Docs](Development/Docs)
+* [Golang_Packets](Javascript_Packets/Golang_Packets)
+* [Javascript_Packets](Development/Javascript_Packets)
 * [Laravel](Development/Laravel)
     * [Инструкции / Instructions](/Development/Laravel/Instructions)
     * [Документация / Documentation](/Development/Laravel/Documentation)
-* [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
 * [Другое / Others](Development/Others)
+* [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
+* [Python](Development/Python)
+* [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
 * [Тестирование / Testing](Development/Testing)
 * [Оформление / UI](Development/UI)
 
 # Devops
 
+* [Bash](DevOps/Bash)
+* [CMDScript](DevOps/CMDScript)
+* [Cron](DevOps/Cron)
 * [Hosting](DevOps/Hosting)
 * [Linux_Commands](DevOps/Linux_Commands)
 * [Linux_Utils](DevOps/Linux_Utils)
