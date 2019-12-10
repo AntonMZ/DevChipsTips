@@ -20,6 +20,7 @@
 # Devops
 
 * [Bash](DevOps/Bash)
+* [Books](DevOps/Books)
 * [CMDScript](DevOps/CMDScript)
 * [Cron](DevOps/Cron)
 * [Hosting](DevOps/Hosting)
