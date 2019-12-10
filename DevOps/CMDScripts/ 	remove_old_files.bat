@@ -1,0 +1,1 @@
+forfiles.exe /p Z:\Backups\ /s /m *.* /d -7 /c "cmd /c del /q /f @file"
