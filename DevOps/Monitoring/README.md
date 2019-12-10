@@ -1,0 +1,1 @@
+![MonitoringScape_2019.pdf](MonitoringScape_2019.pdf)
