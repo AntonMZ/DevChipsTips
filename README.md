@@ -2,6 +2,8 @@
 
 # Разработка / Development
 
+* [Книги](Development/Books)
+
  * [Laravel](Development/Laravel)
     - [Инструкции / Instructions](/Development/Laravel/Instructions)
     - [Документация / Documentation](/Development/Laravel/Documentation)
