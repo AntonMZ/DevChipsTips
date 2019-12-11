@@ -21,6 +21,18 @@
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/badge/Laravel-Ready-Red)
     
+    ***
+
+- [fruitcake/laravel-telescope-toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
+
+    Альтернативный debugbar
+
+    ![](https://img.shields.io/github/stars/fruitcake/laravel-telescope-toolbar)
+    ![](https://img.shields.io/github/license/fruitcake/laravel-telescope-toolbar)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+
+
+    ***
 - [https://github.com/xdebug]
 
     ---
