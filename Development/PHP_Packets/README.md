@@ -49,6 +49,18 @@
     ![](https://img.shields.io/github/stars/phpstan/phpstan)
     ![](https://img.shields.io/github/license/phpstan/phpstan)
 
+- [VKCOM/noverify](https://github.com/VKCOM/noverify)
+
+    [Почитать тут](https://habr.com/ru/company/vk/blog/442284/) (https://habr.com 01.03.2019)
+
+    [И тут](https://habr.com/ru/company/vk/blog/473718/)(https://habr.com 07.11.2019)
+
+    ---
+    
+- [quasilyte/phpgrep](https://github.com/quasilyte/phpgrep)
+
+
+
 ---
 
 ## UI
