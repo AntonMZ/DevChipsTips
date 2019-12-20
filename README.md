@@ -11,6 +11,7 @@
     * [Документация / Documentation](/Development/Laravel/Documentation)
 * [Другое / Others](Development/Others)
 * [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
+    - [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
 * [Python](Development/Python)
 * [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
