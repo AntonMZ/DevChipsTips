@@ -1,0 +1,1 @@
+[Безопасность для Docker-контейнеров](https://habr.com/ru/company/flant/blog/474012/) (https://habr.com 01.11.2019)
