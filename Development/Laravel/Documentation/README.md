@@ -11,3 +11,6 @@
 * [Laravel Collective 5.1](https://laravelcollective.com/docs/5.1/html)
 
 * [Организация маршрутов в Laravel](https://habr.com/ru/post/474788/?utm_source=telegram&utm_medium=social&utm_campaign=organizatsiya-marshrutov-v-laravel.esli-k) (https://habr.com / 06.10.2019)
+
+
+* [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)(https://laravel.demiart.ru 14.12.2019)
