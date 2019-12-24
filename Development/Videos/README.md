@@ -1,0 +1,1 @@
+[Большой казанский PHP-митап 14.12.2019](https://www.youtube.com/watch?v=zZTv7HMxKXI)
