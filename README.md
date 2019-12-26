@@ -5,12 +5,13 @@
 # Разработка / Development
 
 * [Книги](Development/Books)
-* [Docs](Development/Docs)
+* [Полезные статьи из мира разработки](Development/Docs)
 * [Golang_Packets](Javascript_Packets/Golang_Packets)
 * [Javascript_Packets](Development/Javascript_Packets)
 * [Laravel](Development/Laravel)
+    * [Полезные статьи и документация по Laravel](/Development/Laravel/Documentation)
     * [Инструкции / Instructions](/Development/Laravel/Instructions)
-    * [Документация / Documentation](/Development/Laravel/Documentation)
+    * [Заметки по решению проблем с Laravel](/Development/Laravel/Troubleshooting)
 * [Другое / Others](Development/Others)
 * [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
     - [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
@@ -19,6 +20,7 @@
 * [Шаблоны / Templates](Development/Templates)
 * [Тестирование / Testing](Development/Testing)
 * [Оформление / UI](Development/UI)
+* [Полезные видео из мира разработки](Development/Videos)
 
 # Devops
 
