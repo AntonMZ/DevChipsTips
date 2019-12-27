@@ -14,3 +14,5 @@
 
 
 * [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)(https://laravel.demiart.ru 14.12.2019)
+
+* [Просто и наглядно об Отношениях в Laravel](https://laravel.demiart.ru/eloquent-relationships-with-drawings/)(https://laravel.demiart.ru 17.12.2019)
