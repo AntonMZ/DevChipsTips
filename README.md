@@ -25,6 +25,9 @@
 # Devops
 
 * [Bash](DevOps/Bash)
+    * [Полезная документация](/DevOps/Bash/Documentation)
+    * [Скрипты](/DevOps/Bash/Scripts)
+    * [Troubleshooting](/DevOps/Bash/Troubleshooting)
 * [Books](DevOps/Books)
 * [CMDScript](DevOps/CMDScript)
 * [Cron](DevOps/Cron)
@@ -33,5 +36,6 @@
 * [Linux_Utils](DevOps/Linux_Utils)
 * [Monitoring](DevOps/Monitoring)
 * [Testing](DevOps/Testing)
+* [Hardware](Hardware)
 
 **[⬆ К оглавлению](#Оглавление)**
