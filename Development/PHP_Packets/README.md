@@ -60,6 +60,23 @@
 - [quasilyte/phpgrep](https://github.com/quasilyte/phpgrep)
 
 
+---
+## Multi (multithreading & etc...)
+
+* [](https://github.com/krakjoe/parallel) - пакет для распараллеливания процессов
+Дополнительная документация еще тут - https://www.php.net/parallel
+
+    ![](https://img.shields.io/github/stars/krakjoe/parallel)
+    ![](https://img.shields.io/github/license/krakjoe/parallel)
+
+---
+
+## Network
+
+* [](https://github.com/lukanetconsult/network-address-types) - пакет для преобразования сетевых адресов
+
+    ![](https://img.shields.io/github/stars/lukanetconsult/network-address-types)
+    ![](https://img.shields.io/github/license/lukanetconsult/network-address-types)
 
 ---
 
