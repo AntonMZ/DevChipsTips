@@ -13,6 +13,13 @@
 * [Организация маршрутов в Laravel](https://habr.com/ru/post/474788/?utm_source=telegram&utm_medium=social&utm_campaign=organizatsiya-marshrutov-v-laravel.esli-k) (https://habr.com / 06.10.2019)
 
 
-* [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)(https://laravel.demiart.ru 14.12.2019)
+* [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)<br/>Источник: (https://laravel.demiart.ru 14.12.2019)
 
-* [Просто и наглядно об Отношениях в Laravel](https://laravel.demiart.ru/eloquent-relationships-with-drawings/)(https://laravel.demiart.ru 17.12.2019)
+* [Просто и наглядно об Отношениях в Laravel](https://laravel.demiart.ru/eloquent-relationships-with-drawings/)
+<br/>Источник: (https://laravel.demiart.ru 17.12.2019)
+
+* [8 трюков с метками времени](https://laravel.demiart.ru/8-tricks-with-laravel-timestamps/)
+<br/>Источник: (https://laravel.demiart.ru 15.01.2020)
+
+* [Редирект на HTTPS через мидлвар](https://laravel.demiart.ru/redirect-to-https-using-middleware/)
+<br/>Источник: (https://laravel.demiart.ru 14.01.2020)
