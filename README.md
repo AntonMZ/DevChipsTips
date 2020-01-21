@@ -12,6 +12,7 @@
     * [Полезные статьи и документация по Laravel](/Development/Laravel/Documentation)
     * [Инструкции / Instructions](/Development/Laravel/Instructions)
     * [Заметки по решению проблем с Laravel](/Development/Laravel/Troubleshooting)
+    * [Быстрая помощь](/Development/Laravel/QuickHelp)
 * [Другое / Others](Development/Others)
 * [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
     - [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
