@@ -1,0 +1,1 @@
+[koomai/phpstorm-laravel-live-templates](https://github.com/koomai/phpstorm-laravel-live-templates) - пакет автодополения для PHPStorm
