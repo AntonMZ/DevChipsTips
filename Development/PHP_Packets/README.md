@@ -11,6 +11,12 @@
     ![](https://img.shields.io/github/license/codestudiohq/laravel-totem)
     ![](https://img.shields.io/badge/Laravel-Ready-Red)
 
+* [Laravel-EnvEditor](https://github.com/GeoSot/Laravel-EnvEditor) - пакет для управления данными в env файле.
+
+    ![](https://img.shields.io/github/stars/GeoSot/Laravel-EnvEditor)
+    ![](https://img.shields.io/github/license/GeoSot/Laravel-EnvEditor)
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+
 ## Debug
 
 - [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
