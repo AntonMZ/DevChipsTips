@@ -139,6 +139,15 @@
 
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - синхронный клиент/сервер протокола Telegram MTProto. Позволяет взаимодействовать с Telegram без использования бот-API
 
+
+## Communications
+
+* [botman/studio)](https://github.com/botman/studio)
+
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+
+* [botman/botman](https://github.com/botman/botman)
+
 ## Office
 
 * [spatie/simple-excel](https://github.com/spatie/simple-excel) - пакет для работы с Excel и CSV файлами.
