@@ -79,10 +79,12 @@
 
 ## Network
 
-* [](https://github.com/lukanetconsult/network-address-types) - пакет для преобразования сетевых адресов
+* [lukanetconsult/network-address-types](https://github.com/lukanetconsult/network-address-types) - пакет для преобразования сетевых адресов
 
     ![](https://img.shields.io/github/stars/lukanetconsult/network-address-types)
     ![](https://img.shields.io/github/license/lukanetconsult/network-address-types)
+
+* [io-developer/php-whois](https://github.com/io-developer/php-whois)
 
 ---
 
