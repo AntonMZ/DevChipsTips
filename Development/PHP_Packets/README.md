@@ -162,10 +162,14 @@
 
 ## ?
 
-
 * [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon)
-    https://carbon.nesbot.com/docs/#api-interval
 
+    ![](https://img.shields.io/github/stars/briannesbitt/Carbon)
+    ![](https://img.shields.io/github/license/briannesbitt/Carbon)
+
+    Дополнительная информация - https://carbon.nesbot.com/docs/#api-interval
+
+    ---
 
 * [ramsey/uuid](https://github.com/ramsey/uuid) - пакет для генерации UUID по RFC 4122
 
