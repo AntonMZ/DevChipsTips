@@ -1,6 +1,10 @@
 ### Пакеты для Laravel / Packets for Laravel
 
 
+## ML
+* [php-ai/php-ml](https://github.com/php-ai/php-ml) - Библиотека для машинного обучения на PHP.
+    Есть документация на русском языке - https://php-ml.ru/
+
 
 ## Utils
 
