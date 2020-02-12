@@ -6,25 +6,30 @@
 
 <table>
     <tr>
-        <td>
+        <td align="center">
             <b>PHP</b>
         </td>
-        <td>
-            Python
+        <td align="center">
+            <b>Python</b>
         </td>
-         <td>
-            Laravel
+        <td align="center">
+            <b>Laravel</b>
         </td>    
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <img src="images/php.jpg" width="50">
         </td>
-        <td>
+        <td align="center">
             <img src="images/python.png" width="50">
         </td>
-        <td>
-            <img src="images/laravel.jpg" width="50">
+        <td align="center">
+            <div>
+                <img src="images/laravel.jpg" width="50">
+            </div>
+            <div>
+                <a href="">Packets/Пакеты</a>
+            </div>
         </td>
     </tr>
 </table>
