@@ -2,6 +2,34 @@
 
 # Оглавление
 
+## Development / Разработка
+
+<table>
+    <tr>
+        <td>
+            <b>PHP</b>
+        </td>
+        <td>
+            Python
+        </td>
+         <td>
+            Laravel
+        </td>    
+    </tr>
+    <tr>
+        <td>
+            <img src="images/php.jpg" width="50">
+        </td>
+        <td>
+            <img src="images/python.png" width="50">
+        </td>
+        <td>
+            <img src="images/laravel.jpg" width="50">
+        </td>
+    </tr>
+</table>
+
+
 # Разработка / Development
 
 * [Книги](Development/Books)
