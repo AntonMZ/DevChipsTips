@@ -33,9 +33,9 @@
         <td>
         </td>
         <td>
-            <a href=""><span style="font-size: 10px;">Packets</span></a><br/>
-            <a href=""><span style="font-size: 10px;">Instructions</span></a><br/>
-            <a href=""><span style="font-size: 10px;">Troubleshooting</span></a>
+            <a href=""><sub>Packets</sub></a><br/>
+            <a href=""><sub>Instructions</sub></a><br/>
+            <a href=""><sub>Troubleshooting</sub></a>
         </td>
     </tr>
 </table>
