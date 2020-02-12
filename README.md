@@ -24,12 +24,18 @@
             <img src="images/python.png" width="50">
         </td>
         <td align="center">
-            <div>
                 <img src="images/laravel.jpg" width="50">
-            </div>
-            <div>
-                <a href="">Packets/Пакеты</a>
-            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+            <a href=""><span style="font-size: 10px;">Packets</span></a><br/>
+            <a href=""><span style="font-size: 10px;">Instructions</span></a><br/>
+            <a href=""><span style="font-size: 10px;">Troubleshooting</span></a>
         </td>
     </tr>
 </table>
