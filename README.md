@@ -12,10 +12,10 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="images/programming.jpg" width=100px;>
+            <a href="programming"><img src="images/programming.jpg" width=100px;></a>
         </td>
         <td align="center">
-            <a href="#mana"><img src="images/management.jpg" width=100px;></a>
+            <a href="#management"><img src="images/management.jpg" width=100px;></a>
         </td> 
     </tr>
 </table>
