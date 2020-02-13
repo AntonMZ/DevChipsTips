@@ -42,7 +42,10 @@
 
 
 ## Management
-<img src="images/management.jpg">
+<p align="center">
+    <img src="images/management.jpg" height=250px;>
+</p>
+
 <table>
     <tr>
         <td align="center">
