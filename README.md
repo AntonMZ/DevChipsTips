@@ -24,7 +24,7 @@
 
 
 
-## Development / Разработка
+## Development
 
 <table>
     <tr>
