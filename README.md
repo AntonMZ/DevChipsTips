@@ -19,13 +19,26 @@
         </td>
         <td align="center">
             <a href="#management"><img src="images/management.jpg" width=100px;></a>
+        </td>
+        <td align="center">
+            <a href="#management"><img src="images/management.jpg" width=100px;></a>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <sub>Книги</sub><br/>
+            <sub>Статьи</sub>
+        </td>
+        <td>
+            <sub>Книги</sub><br/>
+            <sub>Статьи</sub>
+        </td>
+        <td>
+            <sub>Книги</sub><br/>
+            <sub>Статьи</sub>
         </td> 
     </tr>
 </table>
-
-
-
-
 
 ## Разработка
 
