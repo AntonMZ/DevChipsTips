@@ -1,6 +1,28 @@
 ![](https://github.styleci.io/repos/7548986/shield?style=plastic)
 
 # Оглавление
+<table>
+    <tr>
+        <td align="center">
+            Programming
+        </td>
+        <td align="center">
+            Management
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/programming.jpg" width=100px;>
+        </td>
+        <td align="center">
+            <a href="#mana"><img src="images/management.jpg" width=100px;></a>
+        </td> 
+    </tr>
+</table>
+
+
+
+
 
 ## Development / Разработка
 
