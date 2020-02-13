@@ -4,10 +4,13 @@
 <table>
     <tr>
         <td align="center">
-            <a href="#development">Development</a>
+            <a href="#разработка">Разработка</a>
         </td>
         <td align="center">
-            <a href="#management">Management</a>
+            <a href="#менеджмент">Менеджмент</a>
+        </td>
+        <td align="center">
+            <a href="#администрирование">Администрирование</a>
         </td>
     </tr>
     <tr>
@@ -24,7 +27,7 @@
 
 
 
-## Development
+## Разработка
 
 <table>
     <tr>
@@ -63,7 +66,7 @@
 </table>
 
 
-## Management
+## Менеджмент
 <p align="center">
     <img src="images/management.jpg" height=250px;>
 </p>
@@ -88,7 +91,7 @@
 </table>
 
 
-# Разработка / Development
+# Разработка
 
 * [Книги](Development/Books)
 * [Полезные статьи из мира разработки](Development/Docs)
@@ -109,7 +112,7 @@
 * [Оформление / UI](Development/UI)
 * [Полезные видео из мира разработки](Development/Videos)
 
-# Devops
+# Администрирование
 
 * [Bash](DevOps/Bash)
     * [Полезная документация](/DevOps/Bash/Documentation)
