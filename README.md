@@ -41,6 +41,28 @@
 </table>
 
 
+## Management
+<img src="images/management.jpg">
+<table>
+    <tr>
+        <td align="center">
+            Чеклисты
+        </td>
+        <td align="center">
+            Управление персоналом
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ...
+        </td>
+        <td>
+            ...
+        </td>
+    </tr>
+</table>
+
+
 # Разработка / Development
 
 * [Книги](Development/Books)
