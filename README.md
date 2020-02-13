@@ -4,10 +4,10 @@
 <table>
     <tr>
         <td align="center">
-            Programming
+            <a href="programming">Programming</a>
         </td>
         <td align="center">
-            Management
+            <a href="#management">Management</a>
         </td>
     </tr>
     <tr>
