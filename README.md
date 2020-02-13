@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td align="center">
-            <a href="#development">Programming</a>
+            <a href="#development">Development</a>
         </td>
         <td align="center">
             <a href="#management">Management</a>
