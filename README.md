@@ -30,8 +30,8 @@
             <sub>Статьи</sub>
         </td>
         <td>
-            <sub>Книги</sub><br/>
-            <sub>Статьи</sub>
+            <sub><a href="/Management/Books/README.md">Книги</a></sub><br/>
+            <sub><a href="/Management/Posts/README.md">Статьи</a></sub>
         </td>
         <td>
             <sub><a href="/Management/Books/README.md">Книги</a></sub><br/>
