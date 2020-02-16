@@ -204,7 +204,7 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="" width="150">
+             <img src="images/windows.jpg" width="150">
         </td>
         <td align="center">
             <img src="" width="150">
