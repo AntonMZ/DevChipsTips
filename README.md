@@ -36,22 +36,6 @@
         <td>
             <sub><a href="/Management/Books/README.md">Книги</a></sub><br/>
             <sub><a href="/Management/Posts/README.md">Статьи</a></sub>
-            <hr/>
-            <table>
-                <tr>
-                    <td>
-                        <sub><a href="/Management/Posts/README.md">Bash</a></sub><br/>
-                    </td>
-                    <td>
-                        <sub><a href="/Management/Posts/README.md">Docker</a></sub><br/>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <sub><a href="/Management/Posts/README.md">Monitoring</a></sub>
-                    </td>
-                </tr>
-            </table>
         </td> 
     </tr>
 </table>
@@ -142,6 +126,30 @@
 * [Полезные видео из мира разработки](Development/Videos)
 
 # Администрирование
+
+<table>
+    <tr>
+        <td>
+            <sub><a href="/Management/Posts/README.md">Bash</a></sub><br/>
+        </td>
+        <td>
+            <sub><a href="/Management/Posts/README.md">Docker</a></sub><br/>
+        </td>
+        <td>
+            <sub><a href="/Management/Posts/README.md">Monitoring</a></sub>
+        </td>
+        <td>
+            <sub><a href="/Management/Posts/README.md">Hardware</a></sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/bash.jpg" width="50">
+        </td>
+    </tr>
+    <tr>
+    </tr>
+</table>
 
 * [Bash](DevOps/Bash)
     * [Полезная документация](/DevOps/Bash/Documentation)
