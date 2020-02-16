@@ -149,6 +149,12 @@
         <td align="center">
             <img src="images/docker.jpg" width="150">
         </td>
+        <td align="center">
+            <img src="images/monitoring.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/hardware.jpg" width="150">
+        </td>
     </tr>
     <tr>
         <td>
