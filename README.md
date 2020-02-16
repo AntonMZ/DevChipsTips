@@ -174,11 +174,15 @@
     </tr>
     <tr>
         <td>
+            <a href="/DevOps/Linux_Commands/README.md"><sub>&bull; Команды</sub></a><br/>
+            <a href="/DevOps/Linux_Utils/README.md"><sub>&bull; Утилиты</sub></a><br/>
             <a href="/DevOps/Books/README.md"><sub>&bull; Книги</sub></a><br/>
             <a href="/DevOps/Cron"><sub>&bull; Cron</sub></a><br/>
-            <a href="/DevOps/Bash/Posts/README.md"><sub>&bull; Публикации</sub></a><br/>
-            <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
-            <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
+        </td>
+            <td>
+                <a href="/DevOps/Bash/Posts/README.md"><sub>&bull; Публикации</sub></a><br/>
+                <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
+                <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
         </td>
     </tr>
     <tr>
@@ -221,13 +225,5 @@
         </td>
     </tr>
 </table>
-
-    
-
-
-
-* [Linux_Commands](DevOps/Linux_Commands)
-* [Linux_Utils](DevOps/Linux_Utils)
-
 
 **[⬆ К оглавлению](#Оглавление)**
