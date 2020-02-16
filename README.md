@@ -129,7 +129,7 @@
 
 <table>
     <tr>
-    <td align="center">
+        <td align="center">
             <a href="/DevOps/Bash/">Linux</a><br/>
         </td>
         <td align="center">
@@ -146,7 +146,7 @@
         </td>
     </tr>
     <tr>
-    <td align="center">
+        <td align="center">
             <img src="images/linux.jpg" width="150">
         </td>
         <td align="center">
@@ -167,6 +167,40 @@
             <a href="/DevOps/Bash/Documentation/README.md">Полезная документация</a><br/>
             <a href="/DevOps/Bash/Scripts/..">Скрипты</a><br/>
             <a href="/DevOps/Bash/Torubleshooting/">Troubleshooting</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="/DevOps/Bash/">Linux</a><br/>
+        </td>
+        <td align="center">
+            <a href="/DevOps/Bash/">Bash</a><br/>
+        </td>
+        <td align="center">
+            <a href="/Management/Posts/README.md">Docker</a><br/>
+        </td>
+        <td align="center">
+            <a href="/Management/Posts/README.md">Monitoring</a>
+        </td>
+        <td align="center">
+            <a href="/Management/Posts/README.md">Hardware</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/linux.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/bash.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/docker.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/monitoring.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/hardware.jpg" width="150">
         </td>
     </tr>
 </table>
