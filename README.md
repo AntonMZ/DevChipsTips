@@ -15,13 +15,13 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="programming"><img src="images/programming.jpg" width=100px;></a>
+            <a href="programming"><img src="images/programming.jpg" width=300px;></a>
         </td>
         <td align="center">
-            <a href="#management"><img src="images/management.jpg" width=100px;></a>
+            <a href="#management"><img src="images/management.jpg" width=300px;></a>
         </td>
         <td align="center">
-            <a href="#management"><img src="images/management.jpg" width=100px;></a>
+            <a href="#administration"><img src="images/administration.jpg" width=300px;></a>
         </td> 
     </tr>
     <tr>
