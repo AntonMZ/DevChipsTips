@@ -136,14 +136,15 @@
     ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
     ![](https://img.shields.io/badge/Laravel-Ready-Red)
 
-
 ---
 
 ## HTTP
 
-- [mnapoli/bof](https://github.com/mnapoli/bof) - Обёртка над Guzzle с более простым интерфейсом для создания запросов
+* [mnapoli/bof](https://github.com/mnapoli/bof) - Обёртка над Guzzle с более простым интерфейсом для создания запросов
 
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - синхронный клиент/сервер протокола Telegram MTProto. Позволяет взаимодействовать с Telegram без использования бот-API
+* [kitetail/zttp](https://github.com/kitetail/zttp) - HTTP-клиент (обёртка над Guzzle) с простым интерфейсом для типичных задач
+
+* [danog/MadelineProto](https://github.com/danog/MadelineProto) - синхронный клиент/сервер протокола Telegram MTProto. Позволяет взаимодействовать с Telegram без использования бот-API
 
 
 ## Communications
@@ -191,6 +192,10 @@
 ---
 * [laravel-stats](https://github.com/stefanzweifel/laravel-stats)
 ---
+* [haruncpi/laravel-log-reader](https://github.com/haruncpi/laravel-log-reader) -  пакет для красивого отображения логов в админке.
+    
+    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+---
 - [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - автоподсказки для Laravel
 
     Установка: ```composer require --dev barryvdh/laravel-ide-helper```
@@ -222,6 +227,9 @@
 
 ---
 * [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
+
+
+* [salsify/jsonstreamingparser](https://github.com/salsify/jsonstreamingparser) - Потоковый парсер JSON для работы с большими файлами. 
 
 
 

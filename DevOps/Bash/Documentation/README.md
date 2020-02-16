@@ -1,1 +1,2 @@
 [Введение в Bash Shell](https://habr.com/ru/post/471242/) (https://habr.com 14.10.2019)
+* 10.02.2020 [Как использовать коды завершения в Bash-скриптах](https://ru.hexlet.io/blog/posts/kak-ispolzovat-kody-zaversheniya-v-bash-skriptah?utm_source=telegram.me&utm_medium=social&utm_campaign=instrumenty-avtomatizatsii-i-monitoringa) (https://ru.hexlet.io)
