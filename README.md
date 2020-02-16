@@ -36,6 +36,10 @@
         <td>
             <sub><a href="/Management/Books/README.md">Книги</a></sub><br/>
             <sub><a href="/Management/Posts/README.md">Статьи</a></sub>
+            <hr/>
+            <sub><a href="/Management/Posts/README.md">Bash</a></sub><br/>
+            <sub><a href="/Management/Posts/README.md">Docker</a></sub><br/>
+            <sub><a href="/Management/Posts/README.md">Monitoring</a></sub>
         </td> 
     </tr>
 </table>
