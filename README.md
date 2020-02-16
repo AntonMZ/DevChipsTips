@@ -45,7 +45,7 @@
 <table>
     <tr>
         <td align="center">
-            <b>PHP</b>
+            <a href="/Development/Laravel/README.md"><b>PHP</b></a>
         </td>
         <td align="center">
             <b>Python</b>
@@ -56,13 +56,13 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="images/php.jpg" width="50">
+            <img src="images/php.jpg" width="150">
         </td>
         <td align="center">
-            <img src="images/python.png" width="50">
+            <img src="images/python.png" width="150">
         </td>
         <td align="center">
-                <img src="images/laravel.jpg" width="50">
+                <img src="images/laravel.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -71,9 +71,10 @@
         <td>
         </td>
         <td>
-            <a href=""><sub>Packets</sub></a><br/>
-            <a href=""><sub>Instructions</sub></a><br/>
-            <a href=""><sub>Troubleshooting</sub></a>
+            <a href="/Development/Laravel/Documentation/README.md"><sub>Documentation</sub></a><br/>
+            <a href="/Development/Laravel/Instructions/"><sub>Instructions</sub></a><br/>
+            <a href="/Development/Laravel/Troubleshooting/README.md"><sub>Troubleshooting</sub></a><br/>
+            <a href="/Development/Laravel/QuickHelp/README.md"><sub>Quick help</sub></a>
         </td>
     </tr>
 </table>
@@ -110,11 +111,6 @@
 * [Полезные статьи из мира разработки](Development/Docs)
 * [Golang_Packets](Javascript_Packets/Golang_Packets)
 * [Javascript_Packets](Development/Javascript_Packets)
-* [Laravel](Development/Laravel)
-    * [Полезные статьи и документация по Laravel](/Development/Laravel/Documentation)
-    * [Инструкции / Instructions](/Development/Laravel/Instructions)
-    * [Заметки по решению проблем с Laravel](/Development/Laravel/Troubleshooting)
-    * [Быстрая помощь](/Development/Laravel/QuickHelp)
 * [Другое / Others](Development/Others)
 * [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
     - [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
