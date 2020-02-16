@@ -129,6 +129,9 @@
 
 <table>
     <tr>
+    <td align="center">
+            <a href="/DevOps/Bash/">Linux</a><br/>
+        </td>
         <td align="center">
             <a href="/DevOps/Bash/">Bash</a><br/>
         </td>
@@ -143,6 +146,9 @@
         </td>
     </tr>
     <tr>
+    <td align="center">
+            <img src="images/linux.jpg" width="150">
+        </td>
         <td align="center">
             <img src="images/bash.jpg" width="150">
         </td>
