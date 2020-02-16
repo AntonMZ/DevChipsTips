@@ -56,6 +56,9 @@
         <td align="center">
             <a href="/Development/Books/README.md"><b>Книги</b></a>
         </td>
+        <td align="center">
+            <a href="#"><b>Публикации</b></a>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -68,7 +71,10 @@
                 <img src="images/laravel.jpg" width="150">
         </td>
         <td align="center">
-                <img src="images/books.jpg" width="250">
+                <img src="images/books.jpg" width="150">
+        </td>
+        <td align="center">
+                <img src="images/books.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -85,7 +91,7 @@
             <a href="/Development/Laravel/QuickHelp/README.md"><sub>Quick help</sub></a>
         </td>
         <td>
-
+            <a href="/Development/Books/README.md">&bull; <sub>Посмотреть весь раздел</sub></a><br/>
         </td>
     </tr>
 </table>
