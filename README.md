@@ -171,36 +171,36 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="/DevOps/Bash/">Linux</a><br/>
+            <a href="#">...</a><br/>
         </td>
         <td align="center">
-            <a href="/DevOps/Bash/">Bash</a><br/>
+            <a href="#">..</a><br/>
         </td>
         <td align="center">
-            <a href="/Management/Posts/README.md">Docker</a><br/>
+            <a href="#">...</a><br/>
         </td>
         <td align="center">
-            <a href="/Management/Posts/README.md">Monitoring</a>
+            <a href="#">...</a>
         </td>
         <td align="center">
-            <a href="/Management/Posts/README.md">Hardware</a>
+            <a href="/DevOps/Testing/README.md">Тестирование</a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="images/linux.jpg" width="150">
+            <img src="" width="150">
         </td>
         <td align="center">
-            <img src="images/bash.jpg" width="150">
+            <img src="" width="150">
         </td>
         <td align="center">
-            <img src="images/docker.jpg" width="150">
+            <img src="" width="150">
         </td>
         <td align="center">
-            <img src="images/monitoring.jpg" width="150">
+            <img src="" width="150">
         </td>
         <td align="center">
-            <img src="images/hardware.jpg" width="150">
+            <img src="" width="150">
         </td>
     </tr>
 </table>
