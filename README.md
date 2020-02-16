@@ -129,17 +129,17 @@
 
 <table>
     <tr>
-        <td>
-            <sub><a href="/Management/Posts/README.md">Bash</a></sub><br/>
+        <td align="center">
+            <a href="/DevOps/Bash/">Bash</a><br/>
         </td>
-        <td>
-            <sub><a href="/Management/Posts/README.md">Docker</a></sub><br/>
+        <td align="center">
+            <a href="/Management/Posts/README.md">Docker</a><br/>
         </td>
-        <td>
-            <sub><a href="/Management/Posts/README.md">Monitoring</a></sub>
+        <td align="center">
+            <a href="/Management/Posts/README.md">Monitoring</a>
         </td>
-        <td>
-            <sub><a href="/Management/Posts/README.md">Hardware</a></sub>
+        <td align="center">
+            <a href="/Management/Posts/README.md">Hardware</a>
         </td>
     </tr>
     <tr>
@@ -148,13 +148,15 @@
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="/DevOps/Bash/Documentation/README.md">Полезная документация</a><br/>
+            <a href="/DevOps/Bash/Scripts/..">Скрипты</a><br/>
+            <a href="/DevOps/Bash/Torubleshooting/">Troubleshooting</a>
+        </td>
     </tr>
 </table>
 
-* [Bash](DevOps/Bash)
-    * [Полезная документация](/DevOps/Bash/Documentation)
-    * [Скрипты](/DevOps/Bash/Scripts)
-    * [Troubleshooting](/DevOps/Bash/Troubleshooting)
+    
 * [Books](DevOps/Books)
 * [CMDScript](DevOps/CMDScript)
 * [Cron](DevOps/Cron)
