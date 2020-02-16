@@ -164,9 +164,9 @@
     </tr>
     <tr>
         <td>
-            <a href="/DevOps/Bash/Documentation/README.md">Полезная документация</a><br/>
-            <a href="/DevOps/Bash/Scripts/..">Скрипты</a><br/>
-            <a href="/DevOps/Bash/Torubleshooting/">Troubleshooting</a>
+            <sub><a href="/DevOps/Bash/Documentation/README.md">Полезная документация</a></sub><br/>
+            <sub><a href="/DevOps/Bash/Scripts/..">Скрипты</a></sub><br/>
+            <sub><a href="/DevOps/Bash/Torubleshooting/">Troubleshooting</a></sub>
         </td>
     </tr>
     <tr>
