@@ -144,7 +144,7 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="images/bash.jpg" width="50">
+            <img src="images/bash.jpg" width="150">
         </td>
     </tr>
     <tr>
