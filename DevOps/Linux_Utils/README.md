@@ -6,9 +6,6 @@
 - jq
 - tmux
 - watch
-sl
-cmatrix
-masscan
 
 
 
