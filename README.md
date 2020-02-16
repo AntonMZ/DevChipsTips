@@ -146,6 +146,9 @@
         <td align="center">
             <img src="images/bash.jpg" width="150">
         </td>
+        <td align="center">
+            <img src="images/docker.jpg" width="150">
+        </td>
     </tr>
     <tr>
         <td>
