@@ -149,10 +149,10 @@
             <a href="/Management/Posts/README.md">Docker</a><br/>
         </td>
         <td align="center">
-            <a href="/Management/Posts/README.md">Monitoring</a>
+            <a href="/DevOps/Monitoring/README.md">Monitoring</a>
         </td>
         <td align="center">
-            <a href="/Management/Posts/README.md">Hardware</a>
+            <a href="/Hardware">Hardware</a>
         </td>
     </tr>
     <tr>
@@ -174,17 +174,19 @@
     </tr>
     <tr>
         <td>
-            <sub><a href="/DevOps/Bash/Posts/README.md">&bull; Публикации</a></sub><br/>
-            <sub><a href="/DevOps/Bash/Scripts/..">&bull; Скрипты</a></sub><br/>
-            <sub><a href="/DevOps/Bash/Torubleshooting/">&bull; Troubleshooting</a></sub>
+            <a href="/DevOps/Books/README.md"><sub>&bull; Книги</sub></a><br/>
+            <a href="/DevOps/Cron"><sub>&bull; Cron</sub></a><br/>
+            <a href="/DevOps/Bash/Posts/README.md"><sub>&bull; Публикации</sub></a><br/>
+            <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
+            <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="#">...</a><br/>
+            <a href="#">Windows</a><br/>
         </td>
         <td align="center">
-            <a href="#">..</a><br/>
+            <a href="/DevOps/Hosting/README.md">Хостинг</a><br/>
         </td>
         <td align="center">
             <a href="#">...</a><br/>
@@ -213,17 +215,19 @@
             <img src="" width="150">
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="/DevOps/CMDScripts/"><sub>&bull; Скрипты</sub></a>
+        </td>
+    </tr>
 </table>
 
     
-* [Books](DevOps/Books)
-* [CMDScript](DevOps/CMDScript)
-* [Cron](DevOps/Cron)
-* [Hosting](DevOps/Hosting)
+
+
+
 * [Linux_Commands](DevOps/Linux_Commands)
 * [Linux_Utils](DevOps/Linux_Utils)
-* [Monitoring](DevOps/Monitoring)
-* [Testing](DevOps/Testing)
-* [Hardware](Hardware)
+
 
 **[⬆ К оглавлению](#Оглавление)**
