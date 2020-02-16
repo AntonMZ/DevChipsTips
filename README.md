@@ -48,11 +48,14 @@
             <a href="/Development/Laravel/README.md"><b>PHP</b></a>
         </td>
         <td align="center">
-            <b>Python</b>
+            <a href="/Development/Python/.."><b>Python</b></a>
         </td>
         <td align="center">
-            <b>Laravel</b>
-        </td>    
+            <a href="/Development/Laravel/README.md"><b>Laravel</b></a>
+        </td>
+        <td align="center">
+            <a href="/Development/Books/README.md"><b>Книги</b></a>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -64,9 +67,14 @@
         <td align="center">
                 <img src="images/laravel.jpg" width="150">
         </td>
+        <td align="center">
+                <img src="images/books.jpg" width="250">
+        </td>
     </tr>
     <tr>
         <td>
+            <a href=""><sub>&bull; Книги</sub></a></br>
+            <a href="/Development/PHP_Packets/README.md"><sub>&bull; Пакеты</sub></a></br>
         </td>
         <td>
         </td>
@@ -75,6 +83,9 @@
             <a href="/Development/Laravel/Instructions/"><sub>Instructions</sub></a><br/>
             <a href="/Development/Laravel/Troubleshooting/README.md"><sub>Troubleshooting</sub></a><br/>
             <a href="/Development/Laravel/QuickHelp/README.md"><sub>Quick help</sub></a>
+        </td>
+        <td>
+
         </td>
     </tr>
 </table>
@@ -107,14 +118,11 @@
 
 # Разработка
 
-* [Книги](Development/Books)
 * [Полезные статьи из мира разработки](Development/Docs)
 * [Golang_Packets](Javascript_Packets/Golang_Packets)
 * [Javascript_Packets](Development/Javascript_Packets)
 * [Другое / Others](Development/Others)
-* [PHP Пакеты / PHP Packets](/Development/PHP_Packets)
-    - [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
-* [Python](Development/Python)
+* [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
 * [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
 * [Тестирование / Testing](Development/Testing)
