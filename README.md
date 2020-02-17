@@ -102,10 +102,10 @@
             <a href="#"><b>Golang</b></a>
         </td>
         <td align="center">
-            <a href="#"><b>UI</b></a>
+            <a href="/Development/UI/README.md"><b>UI</b></a>
         </td>
         <td align="center">
-            <a href="#"><b>Тестирование</b></a>
+            <a href="/Development/Testing/README.md"><b>Тестирование</b></a>
         </td>
         <td align="center">
             <a href="#"><b>Git</b></a>
@@ -130,7 +130,7 @@
     </tr>
     <tr>
         <td>
-            dfdf
+            <a href="/Development/Javascript_Packets/README.md"><sub>&bull; Пакеты</sub></a>
         </td>
         <td>
             <a href="/Development/Golang_Packets/README.md"><sub>&bull; Пакеты</sub></a>
@@ -168,13 +168,11 @@
 
 * [Полезные статьи из мира разработки](Development/Docs)
 
-* [Javascript_Packets](Development/Javascript_Packets)
+
 * [Другое / Others](Development/Others)
 * [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
 * [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
-* [Тестирование / Testing](Development/Testing)
-* [Оформление / UI](Development/UI)
 * [Полезные видео из мира разработки](Development/Videos)
 
 # Администрирование
