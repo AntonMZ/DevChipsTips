@@ -62,13 +62,13 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="images/php.jpg" width="150">
+            <img src="images/php.png" width="150">
         </td>
         <td align="center">
-            <img src="images/python.png" width="150">
+            <img src="images/python.jpg" width="150">
         </td>
         <td align="center">
-                <img src="images/laravel.jpg" width="150">
+                <img src="images/laravel.png" width="150">
         </td>
         <td align="center">
                 <img src="images/books.jpg" width="150">
@@ -96,10 +96,13 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="/Development/Laravel/README.md"><b>Javascript</b></a>
+            <a href="#"><b>Javascript</b></a>
         </td>
         <td align="center">
-            <a href="/Development/Laravel/README.md"><b>Golang</b></a>
+            <a href="#"><b>Golang</b></a>
+        </td>
+        <td align="center">
+            <a href="#"><b>UI</b></a>
         </td>
     </tr>
     <tr>
@@ -108,6 +111,17 @@
         </td>
         <td align="center">
             <img src="images/golang.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/golang.jpg" width="150">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            dfdf
+        </td>
+        <td>
+            <a href="/Development/Golang_Packets/README.md"><sub>&bull; Пакеты</sub></a>
         </td>
     </tr>
 </table>
@@ -141,7 +155,7 @@
 # Разработка
 
 * [Полезные статьи из мира разработки](Development/Docs)
-* [Golang_Packets](Javascript_Packets/Golang_Packets)
+
 * [Javascript_Packets](Development/Javascript_Packets)
 * [Другое / Others](Development/Others)
 * [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
