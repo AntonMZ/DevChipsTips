@@ -94,6 +94,22 @@
             <a href="/Development/Books/README.md">&bull; <sub>Посмотреть весь раздел</sub></a><br/>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <a href="/Development/Laravel/README.md"><b>Javascript</b></a>
+        </td>
+        <td align="center">
+            <a href="/Development/Laravel/README.md"><b>Golang</b></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="images/javascript.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/golang.jpg" width="150">
+        </td>
+    </tr>
 </table>
 
 
