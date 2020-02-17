@@ -216,7 +216,7 @@
             <img src="" width="150">
         </td>
         <td align="center">
-            <img src="" width="150">
+            <img src="images/testing.jpg" width="150">
         </td>
     </tr>
     <tr>
