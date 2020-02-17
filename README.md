@@ -204,19 +204,19 @@
     </tr>
     <tr>
         <td align="center">
-             <img src="images/windows.jpg" width="150">
+             <img src="images/windows.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="" width="150">
+            <img src="images/hosting.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="" width="150">
+            <img src="" width="150" height="100">
         </td>
         <td align="center">
-            <img src="" width="150">
+            <img src="" width="150" height="100">
         </td>
         <td align="center">
-            <img src="images/testing.jpg" width="150">
+            <img src="images/testing.jpg" width="150" height="100">
         </td>
     </tr>
     <tr>
