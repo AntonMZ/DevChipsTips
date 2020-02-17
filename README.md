@@ -193,10 +193,10 @@
             <a href="/DevOps/Hosting/README.md">Хостинг</a><br/>
         </td>
         <td align="center">
-            <a href="#">...</a><br/>
+            <a href="/DevOps/Books/README.md">Книги</a><br/>
         </td>
         <td align="center">
-            <a href="#">...</a>
+            <a href="/DevOps/MacOS/README.md">MacOS</a>
         </td>
         <td align="center">
             <a href="/DevOps/Testing/README.md">Тестирование</a>
@@ -210,10 +210,10 @@
             <img src="images/hosting.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="" width="150" height="100">
+            <img src="images/books.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="" width="150" height="100">
+            <img src="images/macos.jpeg" width="150" height="100">
         </td>
         <td align="center">
             <img src="images/testing.jpg" width="150" height="100">
