@@ -104,6 +104,12 @@
         <td align="center">
             <a href="#"><b>UI</b></a>
         </td>
+        <td align="center">
+            <a href="#"><b>Тестирование</b></a>
+        </td>
+        <td align="center">
+            <a href="#"><b>Git</b></a>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -114,6 +120,12 @@
         </td>
         <td align="center">
             <img src="images/golang.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/golang.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/git.png" width="150">
         </td>
     </tr>
     <tr>
