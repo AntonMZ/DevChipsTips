@@ -136,6 +136,15 @@
         <td>
             <a href="/Development/Golang_Packets/README.md"><sub>&bull; Пакеты</sub></a>
         </td>
+        <td>
+            ...
+        </td>
+        <td>
+            ...
+        </td>
+        <td>
+            <a href="/Git/Others/README.md"><sub>&bull; Другое</sub></a>
+        </td>
     </tr>
 </table>
 
@@ -168,9 +177,6 @@
 # Разработка
 
 * [Полезные статьи из мира разработки](Development/Docs)
-
-
-* [Другое / Others](Development/Others)
 * [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
 * [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
