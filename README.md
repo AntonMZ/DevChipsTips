@@ -146,6 +146,21 @@
             <a href="/Git/Others/README.md"><sub>&bull; Другое</sub></a>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <a href="/Regex/README.md"><b>Regex</b></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            ...
+        </td>
+    </tr>
 </table>
 
 
@@ -178,7 +193,6 @@
 
 * [Полезные статьи из мира разработки](Development/Docs)
 * [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
-* [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
 
 # Администрирование
