@@ -81,6 +81,7 @@
         <td>
             <a href=""><sub>&bull; Книги</sub></a></br>
             <a href="/Development/PHP_Packets/README.md"><sub>&bull; Пакеты</sub></a></br>
+            <a href="/PHP/Videos/README.md"><sub>&bull; Видео</sub></a></br>
         </td>
         <td>
         </td>
