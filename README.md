@@ -174,7 +174,6 @@
 * [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
 * [Regex](Development/Regex)
 * [Шаблоны / Templates](Development/Templates)
-* [Полезные видео из мира разработки](Development/Videos)
 
 # Администрирование
 
