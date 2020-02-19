@@ -166,6 +166,10 @@
         <td>
             ...
         </td>
+        <td>
+            <a href="/VSCode/Addons.md"><sub>&bull; Плагины</sub></a><br/>
+            <a href="/VSCode/Themes.md"><sub>&bull; Темы</sub></a>
+        </td>
     </tr>
 </table>
 
