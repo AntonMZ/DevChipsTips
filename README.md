@@ -44,55 +44,75 @@
 
 <table>
     <tr>
-        <td align="center">
-            <a href="/Development/Laravel/README.md"><b>PHP</b></a>
-        </td>
-        <td align="center">
-            <a href="/Development/Python/.."><b>Python</b></a>
-        </td>
-        <td align="center">
-            <a href="/Development/Laravel/README.md"><b>Laravel</b></a>
-        </td>
-        <td align="center">
-            <a href="/Development/Books/README.md"><b>Книги</b></a>
-        </td>
-        <td align="center">
-            <a href="#"><b>Публикации</b></a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="images/php.png" width="150">
-        </td>
-        <td align="center">
-            <img src="images/python.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="images/laravel.png" width="150">
-        </td>
-        <td align="center">
-            <img src="images/books.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="images/books.jpg" width="150">
-        </td>
-    </tr>
-    <tr>
         <td>
-            <a href=""><sub>&bull; Книги</sub></a></br>
-            <a href="/Development/PHP_Packets/README.md"><sub>&bull; Пакеты</sub></a></br>
+            <div align="center">
+                <a href="/Development/Laravel/README.md"><b>PHP</b></a>
+            </div>
+            <div align="center">
+                <img src="images/php.png" width="150">
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <a href="/Development/Python/.."><b>Python</b></a>
+            </div>
+            <div align="center">
+                <img src="images/python.jpg" width="150">
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <a href="/Development/Laravel/README.md"><b>Laravel</b></a>
+            </div>
+            <div align="center">
+                <img src="images/laravel.png" width="150">
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <a href="/Development/Books/README.md"><b>Книги</b></a>
+            </div>
+            <div align="center">
+                <img src="images/books.jpg" width="150">
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                <a href="#"><b>Публикации</b></a>
+            </div>
+            <div align="center">
+                <img src="images/books.jpg" width="150">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href=""><sub>&bull; Книги</sub></a><br/>
+            <a href="/Development/PHP_Packets/README.md"><sub>&bull; Пакеты</sub></a><br/>
             <a href="/PHP/Videos/README.md"><sub>&bull; Видео</sub></a></br>
         </td>
-        <td>
+        <td align="center">
         </td>
-        <td>
-            <a href="/Development/Laravel/Documentation/README.md"><sub>Documentation</sub></a><br/>
-            <a href="/Development/Laravel/Instructions/"><sub>Instructions</sub></a><br/>
-            <a href="/Development/Laravel/Troubleshooting/README.md"><sub>Troubleshooting</sub></a><br/>
-            <a href="/Development/Laravel/QuickHelp/README.md"><sub>Quick help</sub></a>
+        <td align="center">
+            <a href="/Development/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
+            <a href="/Development/Laravel/Instructions/"><sub>&bull;  Instructions</sub></a><br/>
+            <a href="/Development/Laravel/Troubleshooting/README.md"><sub>&bull;  Troubleshooting</sub></a><br/>
+            <a href="/Development/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
         </td>
-        <td>
+        <td align="center">
             <a href="/Development/Books/README.md">&bull; <sub>Посмотреть весь раздел</sub></a><br/>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
         </td>
     </tr>
     <tr>
