@@ -68,13 +68,13 @@
             <img src="images/python.jpg" width="150">
         </td>
         <td align="center">
-                <img src="images/laravel.png" width="150">
+            <img src="images/laravel.png" width="150">
         </td>
         <td align="center">
-                <img src="images/books.jpg" width="150">
+            <img src="images/books.jpg" width="150">
         </td>
         <td align="center">
-                <img src="images/books.jpg" width="150">
+            <img src="images/books.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -150,10 +150,16 @@
         <td align="center">
             <a href="/Regex/README.md"><b>Regex</b></a>
         </td>
+        <td align="center">
+            <a href="/Regex/README.md"><b>VSCode</b></a>
+        </td>
     </tr>
     <tr>
         <td>
             <img src="">
+        </td>
+        <td align="center">
+            <img src="images/vscode.jpg" width="150">
         </td>
     </tr>
     <tr>
