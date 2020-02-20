@@ -45,23 +45,23 @@
 <table>
     <tr>
         <td>
-            <div align="center">
+            <div align="center" style="height:30px">
                 <a href="/Development/Laravel/README.md"><b>PHP</b></a>
             </div>
             <div align="center">
-                <img src="images/php.png" width="150">
+                <img src="images/php.png" width="150" height="80">
             </div>
         </td>
         <td>
-            <div align="center">
+            <div align="center" style="height:30px">
                 <a href="/Development/Python/.."><b>Python</b></a>
             </div>
             <div align="center">
-                <img src="images/python.jpg" width="150">
+                <img src="images/python.jpg" width="150" height="80">
             </div>
         </td>
         <td>
-            <div align="center">
+            <div align="center" style="height:30px">
                 <a href="/Development/Laravel/README.md"><b>Laravel</b></a>
             </div>
             <div align="center">
@@ -69,24 +69,24 @@
             </div>
         </td>
         <td>
-            <div align="center">
+            <div align="center" style="height:30px">
                 <a href="/Development/Books/README.md"><b>Книги</b></a>
             </div>
             <div align="center">
-                <img src="images/books.jpg" width="150">
+                <img src="images/books.jpg" width="150" height="80">
             </div>
         </td>
         <td>
-            <div align="center">
+            <div align="center" style="height:30px">
                 <a href="#"><b>Публикации</b></a>
             </div>
             <div align="center">
-                <img src="images/books.jpg" width="150">
+                <img src="images/posts.png" width="150" height="80">
             </div>
         </td>
     </tr>
     <tr>
-        <td align="center">
+        <td align="center"></td>
             <a href=""><sub>&bull; Книги</sub></a><br/>
             <a href="/Development/PHP_Packets/README.md"><sub>&bull; Пакеты</sub></a><br/>
             <a href="/PHP/Videos/README.md"><sub>&bull; Видео</sub></a></br>
@@ -100,54 +100,56 @@
             <a href="/Development/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Books/README.md">&bull; <sub>Посмотреть весь раздел</sub></a><br/>
+            <a href="/Development/Books/README.md">&bull; <sub>Все материалы</sub></a><br/>
         </td>
         <td align="center">
         </td>
     </tr>
+    </table>
+    <table>
     <tr>
         <td>
+            <div align="center" style="height:30px">
+                <a href="#"><b>Javascript</b></a>
+            </div>
+            <div align="center">
+                <img src="images/javascript.png" width="150" height="80">
+            </div>
         </td>
         <td>
+            <div align="center" style="height:30px">
+                <a href="#"><b>Golang</b></a>
+            </div>
+            <div align="center">
+                <img src="images/golang.png" width="150" height="80">
+            </div>
         </td>
         <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/UI/README.md"><b>UI</b></a>
+            </div>
+            <div align="center">
+                <img src="images/ui.png" width="150" height="80">
+            </div>
         </td>
         <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/Testing/README.md"><b>Тестирование</b></a>
+            </div>
+            <div align="center">
+                <img src="images/testing.png" width="150" height="80">
+            </div>
+        </td>
+        <td>
+            <div align="center" style="height:30px">
+                <a href="#"><b>Git</b></a>
+            </div>
+            <div align="center">
+                <img src="images/git.png" width="150" height="80">
+            </div>
         </td>
     </tr>
     <tr>
-        <td align="center">
-            <a href="#"><b>Javascript</b></a>
-        </td>
-        <td align="center">
-            <a href="#"><b>Golang</b></a>
-        </td>
-        <td align="center">
-            <a href="/Development/UI/README.md"><b>UI</b></a>
-        </td>
-        <td align="center">
-            <a href="/Development/Testing/README.md"><b>Тестирование</b></a>
-        </td>
-        <td align="center">
-            <a href="#"><b>Git</b></a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="images/javascript.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="images/golang.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="images/golang.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="images/golang.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="images/git.png" width="150">
-        </td>
     </tr>
     <tr>
         <td>
@@ -166,6 +168,8 @@
             <a href="/Git/Others/README.md"><sub>&bull; Другое</sub></a>
         </td>
     </tr>
+    </table>
+    <table>
     <tr>
         <td align="center">
             <a href="/Regex/README.md"><b>Regex</b></a>
@@ -173,13 +177,19 @@
         <td align="center">
             <a href="/Regex/README.md"><b>VSCode</b></a>
         </td>
+        <td align="center">
+            <a href="/Regex/README.md"><b>Mysql</b></a>
+        </td>
     </tr>
     <tr>
         <td>
-            <img src="">
+            <img src="" width="150" height="80">
         </td>
         <td align="center">
             <img src="images/vscode.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="images/mysql.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -189,6 +199,9 @@
         <td>
             <a href="/VSCode/Addons.md"><sub>&bull; Плагины</sub></a><br/>
             <a href="/VSCode/Themes.md"><sub>&bull; Темы</sub></a>
+        </td>
+        <td>
+            <a href="/Mysql/Examples.md">Quick examples:</a>
         </td>
     </tr>
 </table>
