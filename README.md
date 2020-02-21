@@ -86,12 +86,11 @@
         </td>
     </tr>
     <tr>
-        <td align="center"></td>
-            <a href=""><sub>&bull; Книги</sub></a><br/>
-            <a href="/Development/PHP_Packets/README.md"><sub>&bull; Пакеты</sub></a><br/>
-            <a href="/PHP/Videos/README.md"><sub>&bull; Видео</sub></a></br>
-        </td>
         <td align="center">
+            <a href="/PHP/Books/README.md"><sub>&bull; Книги</sub></a><br/>
+            <a href="/PHP/Packets/README.md"><sub>&bull; Пакеты</sub></a><br/>
+            <a href="/PHP/Videos/README.md"><sub>&bull; Видео</sub></a></br>
+            <a href="/PHP/Instructions/README.md"><sub>&bull; Инструкции</sub></a></br>
         </td>
         <td align="center">
             <a href="/Development/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
