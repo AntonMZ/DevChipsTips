@@ -93,13 +93,12 @@
             <a href="/PHP/Instructions/README.md"><sub>&bull; Инструкции</sub></a></br>
         </td>
         <td align="center">
-            <a href="/Development/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
-            <a href="/Development/Laravel/Instructions/"><sub>&bull;  Instructions</sub></a><br/>
-            <a href="/Development/Laravel/Troubleshooting/README.md"><sub>&bull;  Troubleshooting</sub></a><br/>
-            <a href="/Development/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Books/README.md">&bull; <sub>Все материалы</sub></a><br/>
+            <a href="/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
+            <a href="/Laravel/Instructions/"><sub>&bull;  Instructions</sub></a><br/>
+            <a href="/Laravel/Troubleshooting/README.md"><sub>&bull;  Troubleshooting</sub></a><br/>
+            <a href="/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
         </td>
         <td align="center">
         </td>
@@ -151,19 +150,20 @@
     <tr>
     </tr>
     <tr>
-        <td>
-            <a href="/Development/Javascript_Packets/README.md"><sub>&bull; Пакеты</sub></a>
+        <td align="center">
+            <a href="/Development/Javascript/Packets/README.md"><sub>&bull; Packets</sub></a>
         </td>
-        <td>
-            <a href="/Development/Golang_Packets/README.md"><sub>&bull; Пакеты</sub></a>
+        <td align="center">
+            <a href="/Development/Golang/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
+            <a href="/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
-        <td>
+        <td align="center">
             ...
         </td>
-        <td>
+        <td align="center">
             ...
         </td>
-        <td>
+        <td align="center">
             <a href="/Git/Others/README.md"><sub>&bull; Другое</sub></a>
         </td>
     </tr>
