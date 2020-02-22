@@ -1,13 +1,4 @@
-* <b>Polacode</b> делает скриншоты выделенного кода и удаляет из них такие элементы, как предупреждения или указания на ошибки
+* [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - делает скриншоты выделенного кода и удаляет из них такие элементы, как предупреждения или указания на ошибки
 * [html-snippets](https://github.com/formulahendry/vscode-auto-close-tag) - добавляет закрывающий тэг.
-* [Git Graph] - позволяет визуализировать граф из вашего репозитория в VS Code
-
-
-<div>
-
-
-
-    <b>
-        
-    </b>
-</div>
+* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - позволяет визуализировать граф из вашего репозитория в VS Code
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) — собирает все ваши TODO из проекта в одно дерево и позволяет очень удобно и быстро переходить по ним.
