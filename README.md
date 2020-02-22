@@ -328,4 +328,10 @@
     </tr>
 </table>
 
+## Education
+<p align="center">
+    <img src="" height=250px;>
+</p>
+
+
 **[⬆ К оглавлению](#Оглавление)**
