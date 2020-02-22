@@ -196,11 +196,11 @@
             ...
         </td>
         <td>
-            <a href="/VSCode/Addons.md"><sub>&bull; Плагины</sub></a><br/>
-            <a href="/VSCode/Themes.md"><sub>&bull; Темы</sub></a>
+            <a href="/VSCode/Addons.md"><sub>&bull; Plugins</sub></a><br/>
+            <a href="/VSCode/Themes.md"><sub>&bull; Themes</sub></a>
         </td>
         <td>
-            <a href="/Mysql/Examples.md">Quick examples:</a>
+            <a href="/Mysql/Examples.md"><sub>&bull; Quick examples</sub></a>
         </td>
     </tr>
 </table>
