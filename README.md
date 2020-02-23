@@ -158,7 +158,8 @@
             <a href="/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
         <td align="center">
-            ...
+             <a href="/UI/Posts/README.md"><sub>&bull; Templates</sub></a>
+             <a href="/UI/Posts/README.md"><sub>&bull; Posts</sub></a>
         </td>
         <td align="center">
             ...
@@ -235,7 +236,6 @@
 
 * [Полезные статьи из мира разработки](Development/Docs)
 * [Дополнительные инструкции](/Development/PHP_Packets/Instructions)
-* [Шаблоны / Templates](Development/Templates)
 
 # Администрирование
 
