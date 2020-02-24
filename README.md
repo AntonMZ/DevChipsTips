@@ -279,7 +279,6 @@
             <a href="/DevOps/Linux_Commands/README.md"><sub>&bull; Команды</sub></a><br/>
             <a href="/DevOps/Linux_Utils/README.md"><sub>&bull; Утилиты</sub></a><br/>
             <a href="/DevOps/Books/README.md"><sub>&bull; Книги</sub></a><br/>
-            <a href="/DevOps/Cron"><sub>&bull; Cron</sub></a><br/>
         </td>
             <td>
                 <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Публикации</sub></a><br/>
