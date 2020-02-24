@@ -30,12 +30,12 @@
             <sub>Статьи</sub>
         </td>
         <td>
-            <sub><a href="/Management/Books/README.md">Книги</a></sub><br/>
-            <sub><a href="/Management/Posts/README.md">Статьи</a></sub>
+            <sub><a href="/Management/Books/README.md">Books</a></sub><br/>
+            <sub><a href="/Management/Publications/README.md">Publications</a></sub>
         </td>
         <td>
-            <sub><a href="/Management/Books/README.md">Книги</a></sub><br/>
-            <sub><a href="/Management/Posts/README.md">Статьи</a></sub>
+            <sub><a href="/Management/Books/README.md">Books</a></sub><br/>
+            <sub><a href="/Management/Publications/README.md">Publications</a></sub>
         </td> 
     </tr>
 </table>
@@ -70,7 +70,7 @@
         </td>
         <td>
             <div align="center" style="height:30px">
-                <a href="/Development/Books/README.md"><b>Книги</b></a>
+                <a href="/Development/Books/README.md"><b>Books</b></a>
             </div>
             <div align="center">
                 <img src="images/books.jpg" width="150" height="80">
@@ -78,10 +78,10 @@
         </td>
         <td>
             <div align="center" style="height:30px">
-                <a href="#"><b>Публикации</b></a>
+                <a href="/Development/Publications/README.md"><b>Publications</b></a>
             </div>
             <div align="center">
-                <img src="images/posts.png" width="150" height="80">
+                <img src="images/publications.png" width="150" height="80">
             </div>
         </td>
     </tr>
@@ -158,8 +158,8 @@
             <a href="/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
         <td align="center">
-             <a href="/UI/Posts/README.md"><sub>&bull; Templates</sub></a>
-             <a href="/UI/Posts/README.md"><sub>&bull; Posts</sub></a>
+             <a href="/UI/Publications/README.md"><sub>&bull; Templates</sub></a>
+             <a href="/UI/Publications/README.md"><sub>&bull; Publications</sub></a>
         </td>
         <td align="center">
             ...
@@ -248,7 +248,7 @@
             <a href="/DevOps/Bash/">Bash</a><br/>
         </td>
         <td align="center">
-            <a href="/Management/Posts/README.md">Docker</a><br/>
+            <a href="/Management/Publications/README.md">Docker</a><br/>
         </td>
         <td align="center">
             <a href="/DevOps/Monitoring/README.md">Monitoring</a>
@@ -282,7 +282,7 @@
             <a href="/DevOps/Cron"><sub>&bull; Cron</sub></a><br/>
         </td>
             <td>
-                <a href="/DevOps/Bash/Posts/README.md"><sub>&bull; Публикации</sub></a><br/>
+                <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Публикации</sub></a><br/>
                 <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
                 <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
         </td>
