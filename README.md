@@ -26,8 +26,8 @@
     </tr>
     <tr>
         <td>
-            <sub>Книги</sub><br/>
-            <sub>Статьи</sub>
+            <sub>Books</sub><br/>
+            <sub>Publications</sub>
         </td>
         <td>
             <sub><a href="/Management/Books/README.md">Books</a></sub><br/>
@@ -87,10 +87,10 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="/PHP/Books/README.md"><sub>&bull; Книги</sub></a><br/>
-            <a href="/PHP/Packets/README.md"><sub>&bull; Пакеты</sub></a><br/>
-            <a href="/PHP/Videos/README.md"><sub>&bull; Видео</sub></a></br>
-            <a href="/PHP/Instructions/README.md"><sub>&bull; Инструкции</sub></a></br>
+            <a href="/PHP/Books/README.md"><sub>&bull; Books</sub></a><br/>
+            <a href="/PHP/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
+            <a href="/PHP/Videos/README.md"><sub>&bull; Videos</sub></a></br>
+            <a href="/PHP/Instructions/README.md"><sub>&bull; Instructions</sub></a></br>
         </td>
         <td align="center">
         </td>
