@@ -19,3 +19,5 @@
 * https://github.styleci.io
 
 * https://dependabot.com
+
+* https://semmle.com/
