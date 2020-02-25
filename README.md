@@ -180,6 +180,9 @@
         <td align="center">
             <a href="/Regex/README.md"><b>Mysql</b></a>
         </td>
+        <td align="center">
+            <a href="/Java/README.md"><b>Java</b></a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -190,6 +193,9 @@
         </td>
         <td align="center">
             <img src="Images/mysql.jpg" width="150">
+        </td>
+        <td align="center">
+            <img src="Images/java.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -202,6 +208,9 @@
         </td>
         <td>
             <a href="/Mysql/Examples.md"><sub>&bull; Quick examples</sub></a>
+        </td>
+        <td>
+            <a href="/Java/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
     </tr>
 </table>
