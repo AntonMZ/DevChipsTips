@@ -15,13 +15,13 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="programming"><img src="/Images/programming.jpg" width=300px;></a>
+            <a href="programming"><img src="Images/programming.jpg" width=300px;></a>
         </td>
         <td align="center">
-            <a href="#management"><img src="/Images/management.jpg" width=300px;></a>
+            <a href="#management"><img src="Images/management.jpg" width=300px;></a>
         </td>
         <td align="center">
-            <a href="#administration"><img src="/Images/administration.jpg" width=300px;></a>
+            <a href="#administration"><img src="Images/administration.jpg" width=300px;></a>
         </td> 
     </tr>
     <tr>
@@ -49,7 +49,7 @@
                 <a href="/Development/Laravel/README.md"><b>PHP</b></a>
             </div>
             <div align="center">
-                <img src="/Images/php.png" width="150" height="80">
+                <img src="Images/php.png" width="150" height="80">
             </div>
         </td>
         <td>
@@ -57,7 +57,7 @@
                 <a href="/Development/Python/.."><b>Python</b></a>
             </div>
             <div align="center">
-                <img src="/Images/python.jpg" width="150" height="80">
+                <img src="Images/python.jpg" width="150" height="80">
             </div>
         </td>
         <td>
@@ -65,7 +65,7 @@
                 <a href="/Development/Laravel/README.md"><b>Laravel</b></a>
             </div>
             <div align="center">
-                <img src="/Images/laravel.png" width="150">
+                <img src="Images/laravel.png" width="150">
             </div>
         </td>
         <td>
@@ -73,7 +73,7 @@
                 <a href="/Development/Books/README.md"><b>Books</b></a>
             </div>
             <div align="center">
-                <img src="/Images/books.jpg" width="150" height="80">
+                <img src="Images/books.jpg" width="150" height="80">
             </div>
         </td>
         <td>
@@ -81,7 +81,7 @@
                 <a href="/Development/Publications/README.md"><b>Publications</b></a>
             </div>
             <div align="center">
-                <img src="/Images/publications.png" width="150" height="80">
+                <img src="Images/publications.png" width="150" height="80">
             </div>
         </td>
     </tr>
@@ -111,7 +111,7 @@
                 <a href="#"><b>Javascript</b></a>
             </div>
             <div align="center">
-                <img src="/Images/javascript.png" width="150" height="80">
+                <img src="Images/javascript.png" width="150" height="80">
             </div>
         </td>
         <td>
@@ -119,7 +119,7 @@
                 <a href="#"><b>Golang</b></a>
             </div>
             <div align="center">
-                <img src="/Images/golang.png" width="150" height="80">
+                <img src="Images/golang.png" width="150" height="80">
             </div>
         </td>
         <td>
@@ -127,7 +127,7 @@
                 <a href="/Development/UI/README.md"><b>UI</b></a>
             </div>
             <div align="center">
-                <img src="/Images/ui.png" width="150" height="80">
+                <img src="Images/ui.png" width="150" height="80">
             </div>
         </td>
         <td>
@@ -135,7 +135,7 @@
                 <a href="/Development/Testing/README.md"><b>Тестирование</b></a>
             </div>
             <div align="center">
-                <img src="/Images/testing.png" width="150" height="80">
+                <img src="Images/testing.png" width="150" height="80">
             </div>
         </td>
         <td>
@@ -143,7 +143,7 @@
                 <a href="#"><b>Git</b></a>
             </div>
             <div align="center">
-                <img src="/Images/git.png" width="150" height="80">
+                <img src="Images/git.png" width="150" height="80">
             </div>
         </td>
     </tr>
@@ -186,10 +186,10 @@
             <img src="" width="150" height="80">
         </td>
         <td align="center">
-            <img src="/Images/vscode.jpg" width="150">
+            <img src="Images/vscode.jpg" width="150">
         </td>
         <td align="center">
-            <img src="/Images/mysql.jpg" width="150">
+            <img src="Images/mysql.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -209,7 +209,7 @@
 
 ## Менеджмент
 <p align="center">
-    <img src="/Images/management.jpg" height=250px;>
+    <img src="Images/management.jpg" height=250px;>
 </p>
 
 <table>
@@ -259,19 +259,19 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="/Images/linux.jpg" width="150">
+            <img src="Images/linux.jpg" width="150">
         </td>
         <td align="center">
-            <img src="/Images/bash.jpg" width="150">
+            <img src="Images/bash.jpg" width="150">
         </td>
         <td align="center">
-            <img src="/Images/docker.jpg" width="150">
+            <img src="Images/docker.jpg" width="150">
         </td>
         <td align="center">
-            <img src="/Images/monitoring.jpg" width="150">
+            <img src="Images/monitoring.jpg" width="150">
         </td>
         <td align="center">
-            <img src="/Images/hardware.jpg" width="150">
+            <img src="Images/hardware.jpg" width="150">
         </td>
     </tr>
     <tr>
@@ -305,19 +305,19 @@
     </tr>
     <tr>
         <td align="center">
-             <img src="/Images/windows.jpg" width="150" height="100">
+             <img src="Images/windows.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="/Images/hosting.jpg" width="150" height="100">
+            <img src="Images/hosting.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="/Images/books.jpg" width="150" height="100">
+            <img src="Images/books.jpg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="/Images/macos.jpeg" width="150" height="100">
+            <img src="Images/macos.jpeg" width="150" height="100">
         </td>
         <td align="center">
-            <img src="/Images/testing.jpg" width="150" height="100">
+            <img src="Images/testing.jpg" width="150" height="100">
         </td>
     </tr>
     <tr>
