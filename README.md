@@ -87,18 +87,18 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="/PHP/Books/README.md"><sub>&bull; Books</sub></a><br/>
-            <a href="/PHP/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
-            <a href="/PHP/Videos/README.md"><sub>&bull; Videos</sub></a></br>
-            <a href="/PHP/Instructions/README.md"><sub>&bull; Instructions</sub></a></br>
+            <a href="/Development/PHP/Books/README.md"><sub>&bull; Books</sub></a><br/>
+            <a href="/Development/PHP/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
+            <a href="/Development/PHP/Videos/README.md"><sub>&bull; Videos</sub></a></br>
+            <a href="/Development/PHP/Instructions/README.md"><sub>&bull; Instructions</sub></a></br>
         </td>
         <td align="center">
         </td>
         <td align="center">
-            <a href="/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
-            <a href="/Laravel/Instructions/"><sub>&bull;  Instructions</sub></a><br/>
-            <a href="/Laravel/Troubleshooting/README.md"><sub>&bull;  Troubleshooting</sub></a><br/>
-            <a href="/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
+            <a href="/Development/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
+            <a href="/Development/Laravel/Instructions/"><sub>&bull;  Instructions</sub></a><br/>
+            <a href="/Development/Laravel/Troubleshooting/README.md"><sub>&bull;  Troubleshooting</sub></a><br/>
+            <a href="/Development/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
         </td>
         <td align="center">
         </td>
@@ -154,34 +154,34 @@
             <a href="/Development/Javascript/Packets/README.md"><sub>&bull; Packets</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Golang/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
-            <a href="/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
+            <a href="/Development/Development/Golang/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
+            <a href="/Development/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
         <td align="center">
-             <a href="/UI/Publications/README.md"><sub>&bull; Templates</sub></a>
-             <a href="/UI/Publications/README.md"><sub>&bull; Publications</sub></a>
+             <a href="/Development/UI/Publications/README.md"><sub>&bull; Templates</sub></a>
+             <a href="/Development/UI/Publications/README.md"><sub>&bull; Publications</sub></a>
         </td>
         <td align="center">
             ...
         </td>
         <td align="center">
-            <a href="/Git/Others/README.md"><sub>&bull; Другое</sub></a>
+            <a href="/Development/Git/Others/README.md"><sub>&bull; Другое</sub></a>
         </td>
     </tr>
     </table>
     <table>
     <tr>
         <td align="center">
-            <a href="/Regex/README.md"><b>Regex</b></a>
+            <a href="/Development/Regex/README.md"><b>Regex</b></a>
         </td>
         <td align="center">
-            <a href="/Regex/README.md"><b>VSCode</b></a>
+            <a href="/Development/Regex/README.md"><b>VSCode</b></a>
         </td>
         <td align="center">
-            <a href="/Regex/README.md"><b>Mysql</b></a>
+            <a href="/Development/Regex/README.md"><b>Mysql</b></a>
         </td>
         <td align="center">
-            <a href="/Java/README.md"><b>Java</b></a>
+            <a href="/Development/Java/README.md"><b>Java</b></a>
         </td>
     </tr>
     <tr>
@@ -203,14 +203,14 @@
             ...
         </td>
         <td>
-            <a href="/VSCode/Addons.md"><sub>&bull; Plugins</sub></a><br/>
-            <a href="/VSCode/Themes.md"><sub>&bull; Themes</sub></a>
+            <a href="/Development/VSCode/Addons.md"><sub>&bull; Plugins</sub></a><br/>
+            <a href="/Development/VSCode/Themes.md"><sub>&bull; Themes</sub></a>
         </td>
         <td>
-            <a href="/Mysql/Examples.md"><sub>&bull; Quick examples</sub></a>
+            <a href="/Development/Mysql/Examples.md"><sub>&bull; Quick examples</sub></a>
         </td>
         <td>
-            <a href="/Java/Books/README.md"><sub>&bull; Books</sub></a>
+            <a href="/Development/Java/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
     </tr>
 </table>
