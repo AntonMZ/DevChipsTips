@@ -98,7 +98,8 @@
             <a href="/Development/Laravel/Documentation/README.md"><sub>&bull;  Documentation</sub></a><br/>
             <a href="/Development/Laravel/Instructions/"><sub>&bull;  Instructions</sub></a><br/>
             <a href="/Development/Laravel/Troubleshooting/README.md"><sub>&bull;  Troubleshooting</sub></a><br/>
-            <a href="/Development/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a>
+            <a href="/Development/Laravel/QuickHelp/README.md"><sub>&bull;  Quick help</sub></a><br/>
+            <a href="/Development/PHP/Books/README.md"><sub>&bull;  Books</sub></a>
         </td>
         <td align="center">
         </td>
