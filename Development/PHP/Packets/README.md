@@ -7,6 +7,7 @@
 
 
 ## Utils
+- [hirak/prestissimo](https://github.com/hirak/prestissimo) - пакет для параллельной установки composer пакетов
 
 - [laravel-totem](https://github.com/codestudiohq/laravel-totem) - управление заданиями через web интерфейс
 ![]()
