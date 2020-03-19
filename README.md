@@ -215,17 +215,20 @@
         </td>
     </tr>
     <tr>
-        <td>
-            ...
+        <td align="center">
+            &bull; ...
         </td>
-        <td>
+        <td align="center">
             <a href="/Development/VSCode/Addons.md"><sub>&bull; Plugins</sub></a><br/>
             <a href="/Development/VSCode/Themes.md"><sub>&bull; Themes</sub></a>
         </td>
-        <td>
+        <td align="center">
             <a href="/Development/Mysql/Examples.md"><sub>&bull; Quick examples</sub></a>
         </td>
-        <td>
+        <td align="center">
+            <a href="/Development/Java/Books/README.md"><sub>&bull; Books</sub></a>
+        </td>
+        <td align="center">
             <a href="/Development/Java/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
     </tr>
