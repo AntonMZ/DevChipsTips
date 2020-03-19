@@ -173,25 +173,45 @@
     </table>
     <table>
     <tr>
-        <td align="center">
-            <a href="/Development/Regex/README.md"><b>Regex1</b></a>
-            <img src="Images/regex.png" width="150" height="80">
+        <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/Regex/README.md"><b>Regex1</b></a>
+            </div>
+            <div align="center">
+                <img src="Images/regex.png" width="150" height="80">
+            </div>
         </td>
-        <td align="center">
-            <a href="/Development/Regex/README.md"><b>VSCode</b></a>
-            <img src="Images/vscode.jpg" width="150" height="80">
+        <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/Regex/README.md"><b>VSCode</b></a>
+            </div>
+            <div align="center">
+                <img src="Images/vscode.jpg" width="150" height="80">
+            </div>
         </td>
-        <td align="center">
-            <a href="/Development/Mysql/README.md"><b>Mysql</b></a>
-            <img src="Images/mysql.jpg" width="150" height="80">
+        <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/Mysql/README.md"><b>Mysql</b></a>
+            </div>
+            <div align="center">
+                <img src="Images/mysql.jpg" width="150" height="80">
+            </div>
         </td>
-        <td align="center">
-            <a href="/Development/Java/README.md"><b>Java</b></a>
-            <img src="Images/java.jpg" width="150" height="80">
+        <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/Java/README.md"><b>Java</b></a>
+            </div>
+            <div align="center">
+                <img src="Images/java.jpg" width="150" height="80">
+            </div>
         </td>
-        <td align="center">
-            <a href="/Development/Vue/README.md"><b>Vue</b></a>
-            <img src="Images/vuejs.jpg" width="150" height="80">
+        <td>
+            <div align="center" style="height:30px">
+                <a href="/Development/Vue/README.md"><b>Vue</b></a>
+            </div>
+            <div align="center">
+                <img src="Images/vuejs.jpg" width="150" height="80">
+            </div>
         </td>
     </tr>
     <tr>
