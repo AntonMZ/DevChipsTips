@@ -174,30 +174,24 @@
     <table>
     <tr>
         <td align="center">
-            <a href="/Development/Regex/README.md"><b>Regex</b></a>
+            <a href="/Development/Regex/README.md"><b>Regex1</b></a>
+            <img src="Images/regex.png" width="150" height="80">
         </td>
         <td align="center">
             <a href="/Development/Regex/README.md"><b>VSCode</b></a>
+            <img src="Images/vscode.jpg" width="150" height="80">
         </td>
         <td align="center">
-            <a href="/Development/Regex/README.md"><b>Mysql</b></a>
+            <a href="/Development/Mysql/README.md"><b>Mysql</b></a>
+            <img src="Images/mysql.jpg" width="150" height="80">
         </td>
         <td align="center">
             <a href="/Development/Java/README.md"><b>Java</b></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="" width="150" height="80">
+            <img src="Images/java.jpg" width="150" height="80">
         </td>
         <td align="center">
-            <img src="Images/vscode.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="Images/mysql.jpg" width="150">
-        </td>
-        <td align="center">
-            <img src="Images/java.jpg" width="150">
+            <a href="/Development/Vue/README.md"><b>Vue</b></a>
+            <img src="Images/vuejs.jpg" width="150" height="80">
         </td>
     </tr>
     <tr>
