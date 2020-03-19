@@ -229,7 +229,7 @@
             <a href="/Development/Java/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Java/Books/README.md"><sub>&bull; Books</sub></a>
+            &bull; ...
         </td>
     </tr>
 </table>
