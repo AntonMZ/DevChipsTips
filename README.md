@@ -156,8 +156,8 @@
             <a href="/Development/Javascript/Packets/README.md"><sub>&bull; Packets</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Development/Golang/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
-            <a href="/Development/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
+            <a href="/Development/Golang/Packets/README.md"><sub>&bull; Packets</sub></a><br/>
+            <a href="/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
         <td align="center">
              <a href="/Development/UI/Publications/README.md"><sub>&bull; Templates</sub></a>
