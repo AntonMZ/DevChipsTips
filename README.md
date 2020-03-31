@@ -224,7 +224,7 @@
             <a href="/Development/VSCode/Themes.md"><sub>&bull; Themes</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Mysql/Examples.md"><sub>&bull; Quick examples</sub></a>
+            <a href="/Development/Mysql/Administration/README.md"><sub>&bull; Maintenance</sub></a>
         </td>
         <td align="center">
             <a href="/Development/Java/Books/README.md"><sub>&bull; Books</sub></a>
@@ -354,6 +354,16 @@
     <tr>
         <td>
             <a href="/DevOps/CMDScripts/"><sub>&bull; Скрипты</sub></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mikrotik</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="/Administration/Mikrotik/Publications/README.md"><sub>&bull; Publications</sub></a>
         </td>
     </tr>
 </table>
