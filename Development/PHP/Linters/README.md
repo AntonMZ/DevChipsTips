@@ -1,0 +1,6 @@
+psalm
+PHPStan
+PHP_CodeSniffer
+NoVerify
+Phan
+Exakat
