@@ -332,7 +332,7 @@
             <a href="/DevOps/MacOS/README.md">MacOS</a>
         </td>
         <td align="center">
-            <a href="/DevOps/Testing/README.md">Тестирование</a>
+            <a href="#">Тестирование</a>
         </td>
     </tr>
     <tr>
@@ -355,6 +355,16 @@
     <tr>
         <td>
             <a href="/DevOps/CMDScripts/"><sub>&bull; Скрипты</sub></a>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td align="center">
+            <a href="/Administration/Testing/Network"><sub>&bull; Network</sub></a><br/>
+            <a href="/Administration/Testing/Security"><sub>&bull; Security</sub></a>
         </td>
     </tr>
     <tr>
