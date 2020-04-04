@@ -1,10 +1,14 @@
 <table>
     <tr>
         <td>
-            <img src="/Management/images/atul_gavande_checklist.jpg" width=100px;>
+            <img src="images/atul_gavande_checklist.jpg" width=100px;>
         </td>
         <td>
             Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям
         </td>
     </tr>
 </table>
+
+||Описание|
+|:-:|:---|
+|<img src="images/44610976.jpg" width="120">|<b>Название: </b>Site Reliability Engineering. Надежность и безотказность как в Google<br/><b>Автор:</b> Бейер Бетси, Джоунс Крис, Петофф Дженнифер, Мерфи Нейл Ричард<br/><b>Год издания:</b> 2020<br/><b>Оценка:</b> 4/5 <br/><sub>См.Раздел по организации и управлению отделом SRE специалистов</sub>|
