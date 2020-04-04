@@ -371,10 +371,16 @@
         <td>
             Mikrotik</a>
         </td>
+        <td>
+            DevOps & SRE</a>
+        </td>
     </tr>
     <tr>
         <td>
             <a href="/Administration/Mikrotik/Publications/README.md"><sub>&bull; Publications</sub></a>
+        </td>
+        <td>
+            <a href="/Administration/DevOps_SRE/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
     </tr>
 </table>
