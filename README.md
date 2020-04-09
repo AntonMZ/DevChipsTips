@@ -280,7 +280,7 @@
             <a href="/DevOps/Bash/">Bash</a><br/>
         </td>
         <td align="center">
-            <a href="/Management/Publications/README.md">Docker</a><br/>
+            <a href="/Administration/Docker/README.md">Docker</a><br/>
         </td>
         <td align="center">
             <a href="/DevOps/Monitoring/README.md">Monitoring</a>
@@ -312,10 +312,13 @@
             <a href="/DevOps/Linux_Utils/README.md"><sub>&bull; Утилиты</sub></a><br/>
             <a href="/DevOps/Books/README.md"><sub>&bull; Книги</sub></a><br/>
         </td>
-            <td>
-                <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Публикации</sub></a><br/>
-                <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
-                <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
+        <td>
+            <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Публикации</sub></a><br/>
+            <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
+            <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
+        </td>
+        <td>
+            <a href="/Administration/Docker/Books/README.md"><sub>&bull; Books</sub></a><br/>
         </td>
     </tr>
     <tr>
