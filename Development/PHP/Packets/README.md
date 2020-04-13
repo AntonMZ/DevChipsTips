@@ -9,6 +9,9 @@
 ## Utils
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - пакет для параллельной установки composer пакетов
 
+- [TitasGailius/terminal](https://github.com/TitasGailius/terminal)
+    Красивая обёртка над symfony/process для запуска внешних команд из PHP
+
 - [laravel-totem](https://github.com/codestudiohq/laravel-totem) - управление заданиями через web интерфейс
 ![]()
     
@@ -31,8 +34,9 @@
     ![](https://img.shields.io/github/stars/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/badge/Laravel-Ready-Red)
-    
-    ***
+
+- [clue/graph-composer](https://github.com/clue/graph-composer)
+    Инструмент визуализирует связи между composer-пакетами вашего проекта.
 
 - [fruitcake/laravel-telescope-toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
 
@@ -90,6 +94,8 @@
     ![](https://img.shields.io/github/license/lukanetconsult/network-address-types)
 
 * [io-developer/php-whois](https://github.com/io-developer/php-whois)
+
+* [rlanvin/php-ip](https://github.com/rlanvin/php-ip) - библиотека для работы с IPv4/IPv6 на PHP
 
 ---
 
