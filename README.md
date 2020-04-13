@@ -308,9 +308,10 @@
     </tr>
     <tr>
         <td>
-            <a href="/DevOps/Linux_Commands/README.md"><sub>&bull; Команды</sub></a><br/>
-            <a href="/DevOps/Linux_Utils/README.md"><sub>&bull; Утилиты</sub></a><br/>
-            <a href="/DevOps/Books/README.md"><sub>&bull; Книги</sub></a><br/>
+            <a href="/Administration/Linux_Commands/README.md"><sub>&bull; Commands</sub></a><br/>
+            <a href="/Administration/Linux_Utils/README.md"><sub>&bull; Utils</sub></a><br/>
+            <a href="#"><sub>&bull; Books</sub></a><br/>
+            <a href="/Administration/Linux/Instructions/README.md"><sub>&bull; Instructions</sub></a><br/>
         </td>
         <td>
             <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Публикации</sub></a><br/>
