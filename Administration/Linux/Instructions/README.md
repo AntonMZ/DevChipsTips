@@ -1,0 +1,1 @@
+* [How disable ipv6 on Linux Centos](../Centos/How_disable_ipv6_on_linux_centos.md)
