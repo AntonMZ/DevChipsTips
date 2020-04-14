@@ -8,3 +8,8 @@
     
     [Npm](https://www.npmjs.com/package/@fancyapps/fancybox)
     [Github](https://github.com/fancyapps/fancybox)
+
+* Darkmode.js - библиотека позволяет добавить темный/ночной режим на ваш сайт за несколько секунд.
+
+    [Site](https://darkmodejs.learn.uno/)
+    [Github](https://github.com/sandoche/Darkmode.js)
