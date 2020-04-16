@@ -129,7 +129,7 @@
 * [thomasjohnkane/snooze](https://github.com/thomasjohnkane/snooze) - пакет для работы с отложенными сообщениями (notifications).
     ![](https://img.shields.io/github/stars/thomasjohnkane/snooze)
     ![](https://img.shields.io/github/license/thomasjohnkane/snooze)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 ---
 
