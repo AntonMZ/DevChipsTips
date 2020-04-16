@@ -143,9 +143,11 @@
     ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
     ![](https://img.shields.io/badge/Laravel-Ready-Red)
 
+---
+### Editors
+* [Te7a-Houdini/laravel-trix](https://github.com/Te7a-Houdini/laravel-trix) - пакет для подключения редактора Trix
 
 ---
-
 
 ## Databases
 * [doctrine/dbal](https://github.com/doctrine/dbal)
