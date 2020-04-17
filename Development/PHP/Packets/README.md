@@ -132,6 +132,12 @@
     ![](images/Laravel-Ready-Red.svg)
 
 ---
+### Security
+
+- [andrey-helldar/laravel-roles](https://github.com/andrey-helldar/laravel-roles) - Making & managament permissions & roles
+
+    ![](images/Laravel-Ready-Red.svg)
+---
 
 ## Diagnostics
 
