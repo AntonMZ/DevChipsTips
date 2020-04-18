@@ -17,13 +17,13 @@
     
     ![](https://img.shields.io/github/stars/codestudiohq/laravel-totem)
     ![](https://img.shields.io/github/license/codestudiohq/laravel-totem)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 * [Laravel-EnvEditor](https://github.com/GeoSot/Laravel-EnvEditor) - пакет для управления данными в env файле.
 
     ![](https://img.shields.io/github/stars/GeoSot/Laravel-EnvEditor)
     ![](https://img.shields.io/github/license/GeoSot/Laravel-EnvEditor)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 ## Debug
 
@@ -33,7 +33,7 @@
 
     ![](https://img.shields.io/github/stars/barryvdh/laravel-debugbar)
     ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 - [clue/graph-composer](https://github.com/clue/graph-composer)
     Инструмент визуализирует связи между composer-пакетами вашего проекта.
@@ -44,7 +44,7 @@
 
     ![](https://img.shields.io/github/stars/fruitcake/laravel-telescope-toolbar)
     ![](https://img.shields.io/github/license/fruitcake/laravel-telescope-toolbar)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 
     ***
@@ -55,7 +55,7 @@
 ## Code analyzers
 - [larastan](https://github.com/nunomaduro/larastan)
 
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
     
     ---
 
@@ -105,7 +105,7 @@
 
     ![](https://img.shields.io/github/stars/laravel/ui)
     ![](https://img.shields.io/github/license/laravel/ui)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
     
     ---
     
@@ -118,13 +118,13 @@
 
     ![](https://img.shields.io/github/stars/laracasts/flash)
     ![](https://img.shields.io/github/license/laracasts/flash)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 * [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - пакет для работы с сообщениями
 
     ![](https://img.shields.io/github/stars/mckenziearts/laravel-notify)
     ![](https://img.shields.io/github/license/mckenziearts/laravel-notify)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 * [thomasjohnkane/snooze](https://github.com/thomasjohnkane/snooze) - пакет для работы с отложенными сообщениями (notifications).
     ![](https://img.shields.io/github/stars/thomasjohnkane/snooze)
@@ -147,7 +147,7 @@
 
     ![](https://img.shields.io/github/stars/spatie/laravel-server-monitor)
     ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 ---
 ### Editors
@@ -169,7 +169,7 @@
 
 * [botman/studio)](https://github.com/botman/studio)
 
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 
 * [botman/botman](https://github.com/botman/botman)
 
@@ -204,7 +204,7 @@
 
     ![](https://img.shields.io/github/stars/spatie/laravel-blade-javascript)
     ![](https://img.shields.io/github/license/spatie/laravel-blade-javascript)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 ---    
 * [laravelcollective/html](https://laravelcollective.com/docs/6.0/html) - пакет для работы с формами в шаблонах
 ---
@@ -216,7 +216,7 @@
 
     ![](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper)
     ![](https://img.shields.io/github/license/barryvdh/laravel-ide-helper)
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 ---
 
  - [spatie/ssl-certificate](https://github.com/spatie/ssl-certificate) - библиотека для работы с SSL сертификатами
@@ -228,13 +228,13 @@
 ---
 * [laravel-valet](https://github.com/laravel/valet) - настройка dev сайтов для разработки
 
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 ---
 * [laravel-permission](https://github.com/spatie/laravel-permission)
 ---
 * [flash](https://github.com/laracasts/flash)
 
-    ![](https://img.shields.io/badge/Laravel-Ready-Red)
+    ![](images/Laravel-Ready-Red.svg)
 ---
 * [laravelcollective/html]
 ---
