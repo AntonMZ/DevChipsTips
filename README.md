@@ -357,8 +357,9 @@
         </td>
     </tr>
     <tr>
-        <td>
-            <a href="/DevOps/CMDScripts/"><sub>&bull; Скрипты</sub></a>
+        <td align="center">
+            <a href="/DevOps/CMDScripts/"><sub>&bull; Скрипты</sub></a><br/>
+            <a href="/Administration/Windows/Utils/README.md"><sub>&bull; Utils</sub></a>
         </td>
         <td>
         </td>
