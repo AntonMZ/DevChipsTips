@@ -4,3 +4,4 @@
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) — собирает все ваши TODO из проекта в одно дерево и позволяет очень удобно и быстро переходить по ним.
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - показывает информацию о каждом внесенном изменении в файле
 * [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - позволяет редактировать код непосредственно на удаленных хостах
+* [Laravel Extra Intellisense](https://github.com/amir9480/vscode-laravel-extra-intellisense) - Autocomplete Laravel code.
