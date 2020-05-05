@@ -221,8 +221,9 @@
             &bull; ...
         </td>
         <td align="center">
-            <a href="/Development/VSCode/Addons.md"><sub>&bull; Plugins</sub></a><br/>
-            <a href="/Development/VSCode/Themes.md"><sub>&bull; Themes</sub></a>
+            <a href="/Development/VSCode/Extensions/README.md"><sub>&bull; Extensions</sub></a><br/>
+            <a href="/Development/VSCode/Themes/README.md"><sub>&bull; Themes</sub></a><br/>
+            <a href="/Development/VSCode/Fonts/README.md"><sub>&bull; Fonts</sub></a>
         </td>
         <td align="center">
             <a href="/Development/Mysql/Administration/README.md"><sub>&bull; Maintenance</sub></a>
