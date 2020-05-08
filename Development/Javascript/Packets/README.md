@@ -13,3 +13,8 @@
 
     [Site](https://darkmodejs.learn.uno/)
     [Github](https://github.com/sandoche/Darkmode.js)
+
+
+### Charts
+
+https://github.com/leeoniya/uPlot
