@@ -176,9 +176,10 @@
 ## Office
 
 * [spatie/simple-excel](https://github.com/spatie/simple-excel) - пакет для работы с Excel и CSV файлами.
+![](images/Laravel-Ready-Red.svg)
 
-    ![](https://img.shields.io/github/stars/spatie/simple-excel)
-    ![](https://img.shields.io/github/license/spatie/simple-excel)
+* [maatwebsite/Laravel-Excel](https://github.com/maatwebsite/Laravel-Excel)  - пакет для работы с Excel и CSV файлами.![](images/Laravel-Ready-Red.svg)
+
 
 * [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - пакет для конвертации html в pdf
 
@@ -230,7 +231,8 @@
 
     ![](images/Laravel-Ready-Red.svg)
 ---
-* [laravel-permission](https://github.com/spatie/laravel-permission)
+* [laravel-permission](https://github.com/spatie/laravel-permission) - пакет для создания и управления правами пользователей в Laravel приложении.
+![](images/Laravel-Ready-Red.svg)
 ---
 * [flash](https://github.com/laracasts/flash)
 
