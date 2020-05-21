@@ -18,3 +18,4 @@
 ### Charts
 
 https://github.com/leeoniya/uPlot
+https://www.highcharts.com/
