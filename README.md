@@ -170,6 +170,7 @@
             ...
         </td>
         <td align="center">
+            <a href="/Development/Git/Howto/README.md"><sub>&bull; Howto</sub></a><br/>
             <a href="/Development/Git/Others/README.md"><sub>&bull; Другое</sub></a>
         </td>
     </tr>
