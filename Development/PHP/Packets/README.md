@@ -46,6 +46,7 @@
     ![](https://img.shields.io/github/license/fruitcake/laravel-telescope-toolbar)
     ![](images/Laravel-Ready-Red.svg)
 
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - пакет для логирования в файлы, сокеты, входяшие, базы данных и различные веб сервисы.
 
     ***
 - [https://github.com/xdebug]
@@ -157,6 +158,9 @@
 
 ## Databases
 * [doctrine/dbal](https://github.com/doctrine/dbal)
+
+## API
+- [gotzmann/comet](https://github.com/gotzmann/comet) - Modern PHP framework for building fast REST APIs
 
 ## HTTP
 
