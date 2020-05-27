@@ -27,24 +27,14 @@
 
 ## Debug
 
-- [laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Debug server ![](images/Laravel-Ready-Red.svg)
 
-    Пакет для работы с debug панелью.
-
-    ![](https://img.shields.io/github/stars/barryvdh/laravel-debugbar)
-    ![](https://img.shields.io/github/license/barryvdh/laravel-debugbar)
-    ![](images/Laravel-Ready-Red.svg)
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - пакет для работы с debug панелью ![](images/Laravel-Ready-Red.svg)
 
 - [clue/graph-composer](https://github.com/clue/graph-composer)
     Инструмент визуализирует связи между composer-пакетами вашего проекта.
 
-- [fruitcake/laravel-telescope-toolbar](https://github.com/fruitcake/laravel-telescope-toolbar)
-
-    Альтернативный debugbar
-
-    ![](https://img.shields.io/github/stars/fruitcake/laravel-telescope-toolbar)
-    ![](https://img.shields.io/github/license/fruitcake/laravel-telescope-toolbar)
-    ![](images/Laravel-Ready-Red.svg)
+- [fruitcake/laravel-telescope-toolbar](https://github.com/fruitcake/laravel-telescope-toolbar) - альтернативный debugbar ![](images/Laravel-Ready-Red.svg)
 
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - пакет для логирования в файлы, сокеты, входяшие, базы данных и различные веб сервисы.
 
