@@ -144,6 +144,7 @@
 ### Editors
 * [Te7a-Houdini/laravel-trix](https://github.com/Te7a-Houdini/laravel-trix) - пакет для подключения редактора Trix
 
+- [erusev/parsedown](https://github.com/erusev/parsedown) - Markdown parser ![](images/Laravel-Ready-Red.svg)
 ---
 
 ## Databases
