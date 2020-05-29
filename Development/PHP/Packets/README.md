@@ -36,7 +36,9 @@
 
 - [fruitcake/laravel-telescope-toolbar](https://github.com/fruitcake/laravel-telescope-toolbar) - альтернативный debugbar ![](images/Laravel-Ready-Red.svg)
 
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - пакет для логирования в файлы, сокеты, входяшие, базы данных и различные веб сервисы.
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - пакет для логирования в файлы, сокеты, входящие, базы данных и различные веб сервисы.
+
+- [ci-on/laravel-log-reader](https://github.com/ci-on/laravel-log-reader) - UI Reader for laravel logs ![](images/Laravel-Ready-Red.svg)
 
     ***
 - [https://github.com/xdebug]
