@@ -330,7 +330,7 @@
             <a href="#">Windows</a><br/>
         </td>
         <td align="center">
-            <a href="/DevOps/Hosting/README.md">Хостинг</a><br/>
+            <a href="/DevOps/Hosting/README.md">Hosting</a><br/>
         </td>
         <td align="center">
             <a href="/DevOps/Books/README.md">Книги</a><br/>
@@ -364,12 +364,12 @@
             <a href="/Administration/Windows/Scripts/README.md/"><sub>&bull; Scripts</sub></a><br/>
             <a href="/Administration/Windows/Utils/README.md"><sub>&bull; Utils</sub></a>
         </td>
-        <td>
+        <td align="center">
             <a href="/Administration/Hosting/Providers/README.md"><sub>&bull; Hosting providers</sub></a><br/>
         </td>
-        <td>
+        <td align="center">
         </td>
-        <td>
+        <td align="center">
         </td>
         <td align="center">
             <a href="/Administration/Testing/Network"><sub>&bull; Network</sub></a><br/>
