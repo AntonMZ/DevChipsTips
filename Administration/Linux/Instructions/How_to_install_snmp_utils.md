@@ -1,0 +1,1 @@
+https://i-notes.org/centos-ustanovka-nastrojka-snmp/
