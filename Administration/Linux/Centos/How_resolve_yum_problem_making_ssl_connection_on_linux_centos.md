@@ -1,0 +1,1 @@
+https://centosquestions.com/yum-update-giving-errno-14-problem-making-ssl-connection/
