@@ -7,7 +7,7 @@ Warning: Failed to set locale category LC_MESSAGES to en_RU.
 
 Inside the file .bash_profile, insert the following line:
 
-export LC_ALL=en_US.UTF-8
+export LC_ALL=ru_RU.UTF-8
 
 If zsh
 vim ~/.zshrc
