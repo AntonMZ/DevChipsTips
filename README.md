@@ -310,18 +310,18 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <a href="/Administration/Linux_Commands/README.md"><sub>&bull; Commands</sub></a><br/>
             <a href="/Administration/Linux_Utils/README.md"><sub>&bull; Utils</sub></a><br/>
             <a href="#"><sub>&bull; Books</sub></a><br/>
             <a href="/Administration/Linux/Instructions/README.md"><sub>&bull; Instructions</sub></a><br/>
         </td>
-        <td>
+        <td align="center">
             <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Publications</sub></a><br/>
             <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Scripts</sub></a><br/>
             <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
         </td>
-        <td>
+        <td align="center">
             <a href="/Administration/Docker/Books/README.md"><sub>&bull; Books</sub></a><br/>
         </td>
     </tr>
