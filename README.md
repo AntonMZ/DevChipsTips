@@ -327,7 +327,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="#">Windows</a>
+            Windows
         </td>
         <td align="center">
             Hosting
@@ -362,6 +362,7 @@
     <tr>
         <td align="center">
             <a href="/Administration/Windows/Scripts/README.md/"><sub>&bull; Scripts</sub></a><br/>
+            <a href="/Administration/Windows/Howto/README.md/"><sub>&bull; Howto</sub></a><br/>
             <a href="/Administration/Windows/Utils/README.md"><sub>&bull; Utils</sub></a>
         </td>
         <td align="center">
