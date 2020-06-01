@@ -386,10 +386,10 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <a href="/Administration/Mikrotik/Publications/README.md"><sub>&bull; Publications</sub></a>
         </td>
-        <td>
+        <td align="center">
             <a href="/Administration/DevOps_SRE/Books/README.md"><sub>&bull; Books</sub></a><br/>
             <a href="/Administration/DevOps_SRE/Services/README.md"><sub>&bull; Services</sub></a>
         </td>
