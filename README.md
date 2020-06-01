@@ -317,8 +317,8 @@
             <a href="/Administration/Linux/Instructions/README.md"><sub>&bull; Instructions</sub></a><br/>
         </td>
         <td>
-            <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Публикации</sub></a><br/>
-            <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Скрипты</sub></a><br/>
+            <a href="/DevOps/Bash/Publications/README.md"><sub>&bull; Publications</sub></a><br/>
+            <a href="/DevOps/Bash/Scripts/.."><sub>&bull; Scripts</sub></a><br/>
             <a href="/DevOps/Bash/Torubleshooting/"><sub>&bull; Troubleshooting</sub></a>
         </td>
         <td>
@@ -333,13 +333,13 @@
             Hosting
         </td>
         <td align="center">
-            <a href="/DevOps/Books/README.md">Книги</a>
+            <a href="/DevOps/Books/README.md">Books</a>
         </td>
         <td align="center">
             <a href="/DevOps/MacOS/README.md">MacOS</a>
         </td>
         <td align="center">
-            <a href="#">Тестирование</a>
+            <a href="#">Testing</a>
         </td>
     </tr>
     <tr>
