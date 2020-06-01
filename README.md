@@ -327,13 +327,13 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="#">Windows</a><br/>
+            <a href="#">Windows</a>
         </td>
         <td align="center">
-            <a href="/DevOps/Hosting/README.md">Hosting</a><br/>
+            Hosting
         </td>
         <td align="center">
-            <a href="/DevOps/Books/README.md">Книги</a><br/>
+            <a href="/DevOps/Books/README.md">Книги</a>
         </td>
         <td align="center">
             <a href="/DevOps/MacOS/README.md">MacOS</a>
