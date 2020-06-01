@@ -361,7 +361,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="/DevOps/CMDScripts/"><sub>&bull; Скрипты</sub></a><br/>
+            <a href="/Administration/Windows/Scripts/README.md/"><sub>&bull; Scripts</sub></a><br/>
             <a href="/Administration/Windows/Utils/README.md"><sub>&bull; Utils</sub></a>
         </td>
         <td>
