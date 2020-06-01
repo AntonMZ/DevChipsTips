@@ -1,0 +1,1 @@
+[Введение в Bash Shell](https://habr.com/ru/post/471242/) (https://habr.com 14.10.2019)
