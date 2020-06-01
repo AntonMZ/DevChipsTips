@@ -378,10 +378,10 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             Mikrotik</a>
         </td>
-        <td>
+        <td align="center">
             DevOps & SRE</a>
         </td>
     </tr>
