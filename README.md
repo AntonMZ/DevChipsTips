@@ -365,6 +365,7 @@
             <a href="/Administration/Windows/Utils/README.md"><sub>&bull; Utils</sub></a>
         </td>
         <td>
+            <a href="/Administration/Hosting/Providers/README.md"><sub>&bull; Hosting providers</sub></a><br/>
         </td>
         <td>
         </td>
