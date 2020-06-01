@@ -1,0 +1,1 @@
+http://snakeproject.ru/rubric/article.php?art=runas_shutdown
