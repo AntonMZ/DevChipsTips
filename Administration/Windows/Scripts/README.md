@@ -1,4 +1,4 @@
 - [Backup folders to nas and yandex disk](Backup_folders_to_nas_and_yandex_disk.md)
-- [Backup_folders to nas (diff backup)](Backup_folders_to_nas_diff.md)
+- [Backup folders to nas (diff backup)](Backup_folders_to_nas_diff.md)
 - [Backup folders to nas (full backup)](Backup_folders_to_nas_full.md)
 - [Remove old file](Remove_old_files.md)
