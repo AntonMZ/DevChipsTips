@@ -328,34 +328,22 @@
     <tr>
         <td align="center">
             Windows
+            <img src="Images/windows.jpg" width="150" height="100">
         </td>
         <td align="center">
             Hosting
-        </td>
-        <td align="center">
-            <a href="/DevOps/Books/README.md">Books</a>
-        </td>
-        <td align="center">
-            <a href="/DevOps/MacOS/README.md">MacOS</a>
-        </td>
-        <td align="center">
-            <a href="#">Testing</a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-             <img src="Images/windows.jpg" width="150" height="100">
-        </td>
-        <td align="center">
             <img src="Images/hosting.jpg" width="150" height="100">
         </td>
         <td align="center">
+            <a href="/DevOps/Books/README.md">Books</a>
             <img src="Images/books.jpg" width="150" height="100">
         </td>
         <td align="center">
+            <a href="/DevOps/MacOS/README.md">MacOS</a>
             <img src="Images/macos.jpeg" width="150" height="100">
         </td>
         <td align="center">
+            <a href="#">Testing</a>
             <img src="Images/testing.jpg" width="150" height="100">
         </td>
     </tr>
