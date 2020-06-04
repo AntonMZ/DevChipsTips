@@ -278,34 +278,22 @@
     <tr>
         <td align="center">
             <a href="/DevOps/Bash/">Linux</a><br/>
-        </td>
-        <td align="center">
-            <a href="/DevOps/Bash/">Bash</a><br/>
-        </td>
-        <td align="center">
-            <a href="/Administration/Docker/README.md">Docker</a><br/>
-        </td>
-        <td align="center">
-            <a href="/DevOps/Monitoring/README.md">Monitoring</a>
-        </td>
-        <td align="center">
-            <a href="/Hardware">Hardware</a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
             <img src="Images/linux.jpg" width="150">
         </td>
         <td align="center">
+            <a href="/DevOps/Bash/">Bash</a><br/>
             <img src="Images/bash.jpg" width="150">
         </td>
         <td align="center">
+            <a href="/Administration/Docker/README.md">Docker</a><br/>
             <img src="Images/docker.jpg" width="150">
         </td>
         <td align="center">
+            <a href="/DevOps/Monitoring/README.md">Monitoring</a>
             <img src="Images/monitoring.jpg" width="150">
         </td>
         <td align="center">
+            <a href="/Hardware">Hardware</a>
             <img src="Images/hardware.jpg" width="150">
         </td>
     </tr>
