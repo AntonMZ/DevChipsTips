@@ -90,6 +90,8 @@
 
 * [rlanvin/php-ip](https://github.com/rlanvin/php-ip) - библиотека для работы с IPv4/IPv6 на PHP
 
+* [beyondcode/expose](https://github.com/beyondcode/expose) - сервис туннелирования на чистом PHP. Аналог ngrok
+
 ---
 
 ## UI
