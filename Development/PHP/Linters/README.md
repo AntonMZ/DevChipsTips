@@ -19,3 +19,6 @@
 
 * phplint
 ![https://github.com/overtrue/phplint](../../images/Github-Green.svg)
+
+* super-linter
+![https://github.com/github/super-linter/](../../images/Github-Green.svg)
