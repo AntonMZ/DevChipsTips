@@ -179,6 +179,7 @@
 
 * [maatwebsite/Laravel-Excel](https://github.com/maatwebsite/Laravel-Excel)  - пакет для работы с Excel и CSV файлами.![](images/Laravel-Ready-Red.svg)
 
+* [rap2hpoutre/fast-excel](https://github.com/rap2hpoutre/fast-excel) - Fast Excel import/export for Laravel.
 
 * [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - пакет для конвертации html в pdf
 
