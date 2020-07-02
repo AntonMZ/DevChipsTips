@@ -245,8 +245,12 @@
 * [spatie/valuestore](https://github.com/spatie/valuestore) - пакет предоставляет возможность хранить глобальные настройки в отдельном JSON файле ([подробнее в статье (21.09.2019)](https://laravel.demiart.ru/global-application-settings/))
 
 
+### Media
+* [laravel-media-uploader](https://github.com/ahmed-aliraqi/laravel-media-uploader) - Media uploader  ![](images/Laravel-Ready-Red.svg)
 
-# Non framework
+
+
+### Non framework
  - https://github.com/nunomaduro/phpinsights
  ---
  - https://github.com/fzaninotto/Faker
