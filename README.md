@@ -297,6 +297,7 @@
             <img src="Images/hardware.jpg" width="150">
         </td>
     </tr>
+    <!-- This is commented out. -->
     <tr>
         <td align="center">
             <a href="/Administration/Linux_Commands/README.md"><sub>&bull; Commands</sub></a><br/>
