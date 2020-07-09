@@ -27,8 +27,9 @@
 
 ## Debug
 
+- [JackieDo/Laravel-Log-Reader](https://github.com/JackieDo/Laravel-Log-Reader) - Log viewer ![](images/Laravel-Ready-Red.svg)
 - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) - Monitor scheduled tasks in a Laravel app ![](images/Laravel-Ready-Red.svg)
-- [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - Debug viewer ![](images/Laravel-Ready-Red.svg)
+- [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - Log viewer ![](images/Laravel-Ready-Red.svg)
 - [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Debug server ![](images/Laravel-Ready-Red.svg)
 
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - пакет для работы с debug панелью ![](images/Laravel-Ready-Red.svg)
