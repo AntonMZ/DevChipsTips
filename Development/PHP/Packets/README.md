@@ -7,6 +7,9 @@
 
 
 ## Utils
+
+* [nunomaduro/laravel-console-menu](https://github.com/nunomaduro/laravel-console-menu) - Creating console menu. ![](images/Laravel-Ready-Red.svg)
+
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - пакет для параллельной установки composer пакетов
 
 - [TitasGailius/terminal](https://github.com/TitasGailius/terminal)
