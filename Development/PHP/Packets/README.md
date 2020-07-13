@@ -10,6 +10,8 @@
 
 * [nunomaduro/laravel-console-menu](https://github.com/nunomaduro/laravel-console-menu) - Creating console menu. ![](images/Laravel-Ready-Red.svg)
 
+* [php-school/cli-menu](https://github.com/php-school/cli-menu) - Creating console menu.
+
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - пакет для параллельной установки composer пакетов
 
 - [TitasGailius/terminal](https://github.com/TitasGailius/terminal)
