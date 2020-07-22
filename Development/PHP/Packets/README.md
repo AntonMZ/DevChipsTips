@@ -111,6 +111,8 @@
     ![](images/Laravel-Ready-Red.svg)
     
     ---
+
+* [ryangjchandler/blade-tabler-icons](https://github.com/ryangjchandler/blade-tabler-icons) - A package to easily make use of Tabler Icons in your Laravel Blade views.
     
 * [php-console-spinner](https://github.com/alecrabbit/php-console-spinner) - красивые спиннеры для консольных php утилит
     
@@ -147,7 +149,6 @@
 - [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor)
 
     Пакет для мониторинга сервера и отправки уведомлений об ошибке в Slack или по электронной почте.
-
     ![](https://img.shields.io/github/stars/spatie/laravel-server-monitor)
     ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
     ![](images/Laravel-Ready-Red.svg)
