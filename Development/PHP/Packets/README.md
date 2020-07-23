@@ -153,6 +153,9 @@
     ![](https://img.shields.io/github/license/spatie/laravel-server-monitor)
     ![](images/Laravel-Ready-Red.svg)
 
+- [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log Viewer for Laravel
+    ![](images/Laravel-Ready-Red.svg)
+    
 ---
 ### Editors
 * [Te7a-Houdini/laravel-trix](https://github.com/Te7a-Houdini/laravel-trix) - пакет для подключения редактора Trix
