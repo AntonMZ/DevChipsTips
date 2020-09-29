@@ -164,11 +164,11 @@
             <a href="/Development/Golang/Books/README.md"><sub>&bull; Books</sub></a>
         </td>
         <td align="center">
-             <a href="/Development/UI/Publications/README.md"><sub>&bull; Templates</sub></a>
+             <a href="/Development/UI/Publications/README.md"><sub>&bull; Templates</sub></a><br/>
              <a href="/Development/UI/Publications/README.md"><sub>&bull; Publications</sub></a>
         </td>
         <td align="center">
-            <a href="/Development/Testing/CI_CD/README.md"><sub>&bull; CI & CD</sub></a>
+            <a href="/Development/Testing/CI_CD/README.md"><sub>&bull; CI & CD</sub></a><br/>
             <a href="/Development/Testing/API/README.md"><sub>&bull; Api</sub></a>
         </td>
         <td align="center">
