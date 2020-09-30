@@ -1,3 +1,5 @@
+[duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (Linux, BSD & macOS)
+
 - ntpq
 - iotop
 - tzlocal
@@ -6,8 +8,12 @@
 - jq
 - tmux
 - watch
-
-
+- vipw
+- vigr
+- wget (https://proglib.io/p/10-primerov-ispolzovaniya-wget-2020-03-23)
+- netcat
+- nmap
+ngrok
 
  - [Одна из лучших тем оформления для zsh (powerlevel10k)](https://github.com/romkatv/powerlevel10k)
 
