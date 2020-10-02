@@ -1,4 +1,5 @@
 [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (Linux, BSD & macOS)
+[bat](https://github.com/sharkdp/bat) - Замена стандартному cat
 
 - ntpq
 - iotop
